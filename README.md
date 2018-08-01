@@ -9,8 +9,9 @@ However you can still use the test case input files and the output files from so
 ## Features  
 1. Able to test whether your code can be successfully compiled.  
 2. Able to compare the result of your code and others'
-3. In Project 5 test, the test for memory leakage is introduced.
+3. In Project 5 test, the test for memory leakage is introduced.  
 4. In Project 4 and 5, the stat of your submission and compare records can be queried.  
+5. In Project 4 and 5, your output files can be downloaded.
 
 ## Usage  
 There are some who are registered for my server, but the number is very limited. So here the instruction on online/offline using will all be given.
