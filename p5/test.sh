@@ -3,7 +3,7 @@ count=1
 if [ ! -f "lock" ];
 then
 	echo Username: $1
-	
+	touch lock
 	echo ********Dlist Test*********
 	cd workspace/$1
 	./test
