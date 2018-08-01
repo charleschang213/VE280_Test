@@ -26,6 +26,8 @@ There are some who are registered for my server, but the number is very limited.
 4. To see the stats about your submissions and comparions, use the stat.sh in the same directory.  
 > ./stat.sh \<your-user-name\>
 
+**Note:** If you want to use the online features on Windows, you should use a unix-like bash such as cygwin or git bash.  
+
 ### Offline Using
 You can go to px/cases to find all test cases input files for Project x. You can call someone else to use the same input and compare your outputs or you can compile the outputs with the generated outputs of the users px/answers  
 
