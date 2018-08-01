@@ -1,0 +1,66 @@
+14
+15
+PHPPFFHPLPHFPFH
+HLHHFLLLLPFPHFF
+PFFPHHLPLLPLPPP
+FPHLHHHLHLFPHPP
+PHHFFLHPFLPHFLP
+HHLLLLLFFHHHFHF
+FPHPFFLHPPFHFFL
+LFHFLPPPLHPFLFH
+HFFHHFFPPLLPHLP
+HPPPLLLPLLLFFFL
+PFFHFFPFLHPPPHF
+LPLLLLPPFHLLHLP
+PFHPFFPHPPHPFPF
+FLFFFLPLLLHFHLH
+lrover east 11 1 a
+rrover east 4 9 f
+lrover south 3 3 f
+lrover south 12 12
+landmine east 8 8
+landmine east 7 13 a
+rrover north 8 6
+rrover east 2 5 a f
+lrover north 2 10
+hop east 5 3 f
+rrover west 3 14
+alt_rover south 0 5 f
+hop north 7 1 f
+alt_rover east 4 11
+rrover north 12 4
+food west 12 1
+alt_rover east 2 13
+lrover south 8 3
+food south 4 14 a
+landmine south 0 2
+rrover north 1 6 f
+alt_rover north 3 13
+lrover south 5 5 a f
+lrover north 10 8 f
+food east 2 11 f
+landmine north 4 7
+food east 13 0
+rrover north 1 8 f
+food west 3 6
+rrover south 3 12 a
+alt_rover south 10 14 f
+lrover east 11 3 f
+alt_rover east 11 10 f
+rrover east 11 11 f
+food north 5 0
+lrover east 0 8 f
+lrover north 5 4 f
+flytrap east 0 4 a
+hop south 13 4
+alt_rover north 2 2 f
+flytrap south 11 0 f
+hop west 5 2 f
+alt_rover east 0 10
+food east 5 7
+rrover east 1 4
+alt_rover south 0 6
+alt_rover east 6 3 a f
+hop east 4 12 a
+food north 1 14
+lrover south 8 4 a f

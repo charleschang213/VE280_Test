@@ -1,0 +1,30 @@
+11
+18
+LPPPPPPPFHPHFPPPPP
+PFPHPLHPPPPPLPHLPH
+PPPLHPFPFPLPPPLFHP
+PLLLPPPHFPFPPHPPFP
+PPPPPPPHPPPPPPHPLP
+PPHPPFPPPPPPPHPLHP
+PPPPPPFFPPHPFPPPPF
+PFPFHPHPPPPPPPPPPL
+PPPFLPPPLPHPPPHPLH
+LFPPPPFFPPPLPPHPPF
+HPPFFPHLPLPHFHFLPL
+hop west 10 17 
+lrover east 0 5 
+flytrap north 1 11 
+hop north 2 9 a 
+food west 3 2 
+rrover north 7 13 
+flytrap east 10 10 
+rrover west 1 15 a f 
+hop west 6 3 a 
+flytrap east 9 6 
+rrover east 4 17 f 
+alt_rover west 6 14 f 
+food west 0 17 
+lrover north 9 7 
+lrover north 3 8 
+food west 2 16 f 
+lrover east 0 2 f 

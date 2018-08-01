@@ -1,0 +1,199 @@
+Initial state
+____ fo_s ____ al_s ____ ____ la_w ____ ____ ____ ____ ____ ____ rr_s ____ 
+Round 1
+Creature (landmine west 0 6) takes action:
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ fo_s ____ al_s ____ ____ la_w ____ ____ ____ ____ ____ ____ rr_s ____ 
+Creature (rrover south 0 13) takes action:
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: right
+____ fo_s ____ al_s ____ ____ la_w ____ ____ ____ ____ ____ ____ rr_w ____ 
+Round 2
+Creature (food south 0 1) takes action:
+Instruction 1: left
+____ fo_e ____ al_s ____ ____ la_w ____ ____ ____ ____ ____ ____ rr_w ____ 
+Creature (landmine west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ fo_e ____ al_s ____ ____ la_w ____ ____ ____ ____ ____ ____ rr_w ____ 
+Creature (alt_rover south 0 3) takes action:
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: left
+____ fo_e ____ al_e ____ ____ la_w ____ ____ ____ ____ ____ ____ rr_w ____ 
+Creature (rrover west 0 13) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ fo_e ____ al_e ____ ____ la_w ____ ____ ____ ____ ____ rr_w ____ ____ 
+Round 3
+Creature (landmine west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ fo_e ____ al_e ____ ____ la_w ____ ____ ____ ____ ____ rr_w ____ ____ 
+Creature (rrover west 0 12) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ fo_e ____ al_e ____ ____ la_w ____ ____ ____ ____ rr_w ____ ____ ____ 
+Round 4
+Creature (food east 0 1) takes action:
+Instruction 2: go 1
+Instruction 1: left
+____ fo_n ____ al_e ____ ____ la_w ____ ____ ____ ____ rr_w ____ ____ ____ 
+Creature (landmine west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ fo_n ____ al_e ____ ____ la_w ____ ____ ____ ____ rr_w ____ ____ ____ 
+Creature (alt_rover east 0 3) takes action:
+Instruction 7: go 10
+Instruction 10: ifenemy 17
+Instruction 11: ifwall 15
+Instruction 12: ifsame 15
+Instruction 13: hop
+____ fo_n ____ ____ al_e ____ la_w ____ ____ ____ ____ rr_w ____ ____ ____ 
+Creature (rrover west 0 11) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ fo_n ____ ____ al_e ____ la_w ____ ____ ____ rr_w ____ ____ ____ ____ 
+Round 5
+Creature (landmine west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ fo_n ____ ____ al_e ____ la_w ____ ____ ____ rr_w ____ ____ ____ ____ 
+Creature (alt_rover east 0 4) takes action:
+Instruction 14: go 10
+Instruction 10: ifenemy 17
+Instruction 11: ifwall 15
+Instruction 12: ifsame 15
+Instruction 13: hop
+____ fo_n ____ ____ ____ al_e la_w ____ ____ ____ rr_w ____ ____ ____ ____ 
+Creature (rrover west 0 10) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ fo_n ____ ____ ____ al_e la_w ____ ____ rr_w ____ ____ ____ ____ ____ 
+Round 6
+Creature (food north 0 1) takes action:
+Instruction 2: go 1
+Instruction 1: left
+____ fo_w ____ ____ ____ al_e la_w ____ ____ rr_w ____ ____ ____ ____ ____ 
+Creature (landmine west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ fo_w ____ ____ ____ la_e la_w ____ ____ rr_w ____ ____ ____ ____ ____ 
+Creature (landmine east 0 5) takes action:
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ fo_w ____ ____ ____ la_e la_w ____ ____ la_w ____ ____ ____ ____ ____ 
+Creature (landmine west 0 9) takes action:
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ fo_w ____ ____ ____ la_e la_w ____ ____ la_w ____ ____ ____ ____ ____ 
+Round 7
+Creature (landmine west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 5: left
+____ fo_w ____ ____ ____ la_e la_s ____ ____ la_w ____ ____ ____ ____ ____ 
+Creature (landmine east 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ fo_w ____ ____ ____ la_e la_s ____ ____ la_w ____ ____ ____ ____ ____ 
+Creature (landmine west 0 9) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ fo_w ____ ____ ____ la_e la_s ____ ____ la_w ____ ____ ____ ____ ____ 
+Round 8
+Creature (food west 0 1) takes action:
+Instruction 2: go 1
+Instruction 1: left
+____ fo_s ____ ____ ____ la_e la_s ____ ____ la_w ____ ____ ____ ____ ____ 
+Creature (landmine south 0 6) takes action:
+Instruction 6: go 1
+Instruction 1: ifwall 5
+Instruction 5: left
+____ fo_s ____ ____ ____ la_e la_e ____ ____ la_w ____ ____ ____ ____ ____ 
+Creature (landmine east 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ fo_s ____ ____ ____ la_e la_e ____ ____ la_w ____ ____ ____ ____ ____ 
+Creature (landmine west 0 9) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ fo_s ____ ____ ____ la_e la_e ____ ____ la_w ____ ____ ____ ____ ____ 
+Round 9
+Creature (landmine east 0 6) takes action:
+Instruction 6: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ fo_s ____ ____ ____ la_e la_e ____ ____ la_w ____ ____ ____ ____ ____ 
+Creature (landmine east 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ fo_s ____ ____ ____ la_e la_e ____ ____ la_w ____ ____ ____ ____ ____ 
+Creature (landmine west 0 9) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ fo_s ____ ____ ____ la_e la_e ____ ____ la_w ____ ____ ____ ____ ____ 
+Round 10
+Creature (food south 0 1) takes action:
+Instruction 2: go 1
+Instruction 1: left
+____ fo_e ____ ____ ____ la_e la_e ____ ____ la_w ____ ____ ____ ____ ____ 
+Creature (landmine east 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ fo_e ____ ____ ____ la_e la_e ____ ____ la_w ____ ____ ____ ____ ____ 
+Creature (landmine east 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ fo_e ____ ____ ____ la_e la_e ____ ____ la_w ____ ____ ____ ____ ____ 
+Creature (landmine west 0 9) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ fo_e ____ ____ ____ la_e la_e ____ ____ la_w ____ ____ ____ ____ ____ 

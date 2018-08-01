@@ -1,0 +1,36 @@
+6
+10
+PPPPPFPPPP
+PPPPPPFHHP
+PPPLLPHLHP
+PPPLPPPPHH
+FPPHPFPHFP
+PPPPHPPHPP
+hop north 4 7
+rrover west 2 1
+landmine west 2 7 a f
+food north 5 9 f
+hop north 3 -1
+landmine east 1 3
+flytrap west 1 6 a
+lrover east 3 6 a
+flytrap west 5 3 a
+lrover east 5 1
+lrover east 0 8 a
+flytrap north 2 9
+flytrap east 4 3 a
+food east 2 0
+flytrap west 1 2 a
+hop east 4 1
+hop north 2 2 a
+food north 0 7
+lrover west 1 0 f
+hop west 4 5
+rrover east 1 8
+landmine east 3 5
+hop north 5 5
+lrover east 4 2 a
+hop west 4 4
+flytrap north 5 6 a
+hop east 3 7
+flytrap west 1 5

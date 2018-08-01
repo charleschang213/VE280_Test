@@ -1,0 +1,22 @@
+# Shuffling the deck
+cut at 32
+cut at 25
+# Hand 1 bankroll 39
+# Player bets 17
+Player dealt Ace of Spades
+Dealer dealt Eight of Clubs
+Player dealt Eight of Diamonds
+Player's total is 19
+Dealer's hole card is Two of Spades
+Dealer dealt Two of Hearts
+Dealer dealt Nine of Clubs
+Dealer's total is 21
+# Dealer wins
+# Hand 2 bankroll 22
+# Player bets 17
+Player dealt Nine of Diamonds
+Dealer dealt Three of Spades
+Player dealt Three of Hearts
+Player dealt Ten of Diamonds
+# Player busts
+# Player has 5 after 2 hands

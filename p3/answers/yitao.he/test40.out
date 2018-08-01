@@ -1,0 +1,427 @@
+Initial state
+____ ____ ____ 
+fl_w ____ ____ 
+____ ____ ho_s 
+____ ____ fo_e 
+____ ____ ____ 
+rr_w ____ ____ 
+Round 1
+Creature (rrover west 5 0) takes action: right
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap west 1 0) takes action: left
+____ ____ ____ 
+fl_s ____ ____ 
+____ ____ ho_s 
+____ ____ fo_e 
+____ ____ ____ 
+rr_n ____ ____ 
+Round 2
+Creature (rrover north 5 0) takes action: right
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap south 1 0) takes action: left
+Creature (food east 3 2) takes action: left
+____ ____ ____ 
+fl_e ____ ____ 
+____ ____ ho_s 
+____ ____ fo_n 
+____ ____ ____ 
+rr_e ____ ____ 
+Round 3
+Creature (rrover east 5 0) takes action: hop
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap east 1 0) takes action: left
+____ ____ ____ 
+fl_n ____ ____ 
+____ ____ ho_s 
+____ ____ fo_n 
+____ ____ ____ 
+____ rr_e ____ 
+Round 4
+Creature (rrover east 5 1) takes action: hop
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap north 1 0) takes action: left
+Creature (food north 3 2) takes action: left
+____ ____ ____ 
+fl_w ____ ____ 
+____ ____ ho_s 
+____ ____ fo_w 
+____ ____ ____ 
+____ ____ rr_e 
+Round 5
+Creature (rrover east 5 2) takes action: right
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap west 1 0) takes action: left
+____ ____ ____ 
+fl_s ____ ____ 
+____ ____ ho_s 
+____ ____ fo_w 
+____ ____ ____ 
+____ ____ rr_s 
+Round 6
+Creature (rrover south 5 2) takes action: right
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap south 1 0) takes action: left
+Creature (food west 3 2) takes action: left
+____ ____ ____ 
+fl_e ____ ____ 
+____ ____ ho_s 
+____ ____ fo_s 
+____ ____ ____ 
+____ ____ rr_w 
+Round 7
+Creature (rrover west 5 2) takes action: hop
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap east 1 0) takes action: left
+____ ____ ____ 
+fl_n ____ ____ 
+____ ____ ho_s 
+____ ____ fo_s 
+____ ____ ____ 
+____ rr_w ____ 
+Round 8
+Creature (rrover west 5 1) takes action: hop
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap north 1 0) takes action: left
+Creature (food south 3 2) takes action: left
+____ ____ ____ 
+fl_w ____ ____ 
+____ ____ ho_s 
+____ ____ fo_e 
+____ ____ ____ 
+rr_w ____ ____ 
+Round 9
+Creature (rrover west 5 0) takes action: right
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap west 1 0) takes action: left
+____ ____ ____ 
+fl_s ____ ____ 
+____ ____ ho_s 
+____ ____ fo_e 
+____ ____ ____ 
+rr_n ____ ____ 
+Round 10
+Creature (rrover north 5 0) takes action: right
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap south 1 0) takes action: left
+Creature (food east 3 2) takes action: left
+____ ____ ____ 
+fl_e ____ ____ 
+____ ____ ho_s 
+____ ____ fo_n 
+____ ____ ____ 
+rr_e ____ ____ 
+Round 11
+Creature (rrover east 5 0) takes action: hop
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap east 1 0) takes action: left
+____ ____ ____ 
+fl_n ____ ____ 
+____ ____ ho_s 
+____ ____ fo_n 
+____ ____ ____ 
+____ rr_e ____ 
+Round 12
+Creature (rrover east 5 1) takes action: hop
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap north 1 0) takes action: left
+Creature (food north 3 2) takes action: left
+____ ____ ____ 
+fl_w ____ ____ 
+____ ____ ho_s 
+____ ____ fo_w 
+____ ____ ____ 
+____ ____ rr_e 
+Round 13
+Creature (rrover east 5 2) takes action: right
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap west 1 0) takes action: left
+____ ____ ____ 
+fl_s ____ ____ 
+____ ____ ho_s 
+____ ____ fo_w 
+____ ____ ____ 
+____ ____ rr_s 
+Round 14
+Creature (rrover south 5 2) takes action: right
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap south 1 0) takes action: left
+Creature (food west 3 2) takes action: left
+____ ____ ____ 
+fl_e ____ ____ 
+____ ____ ho_s 
+____ ____ fo_s 
+____ ____ ____ 
+____ ____ rr_w 
+Round 15
+Creature (rrover west 5 2) takes action: hop
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap east 1 0) takes action: left
+____ ____ ____ 
+fl_n ____ ____ 
+____ ____ ho_s 
+____ ____ fo_s 
+____ ____ ____ 
+____ rr_w ____ 
+Round 16
+Creature (rrover west 5 1) takes action: hop
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap north 1 0) takes action: left
+Creature (food south 3 2) takes action: left
+____ ____ ____ 
+fl_w ____ ____ 
+____ ____ ho_s 
+____ ____ fo_e 
+____ ____ ____ 
+rr_w ____ ____ 
+Round 17
+Creature (rrover west 5 0) takes action: right
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap west 1 0) takes action: left
+____ ____ ____ 
+fl_s ____ ____ 
+____ ____ ho_s 
+____ ____ fo_e 
+____ ____ ____ 
+rr_n ____ ____ 
+Round 18
+Creature (rrover north 5 0) takes action: right
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap south 1 0) takes action: left
+Creature (food east 3 2) takes action: left
+____ ____ ____ 
+fl_e ____ ____ 
+____ ____ ho_s 
+____ ____ fo_n 
+____ ____ ____ 
+rr_e ____ ____ 
+Round 19
+Creature (rrover east 5 0) takes action: hop
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap east 1 0) takes action: left
+____ ____ ____ 
+fl_n ____ ____ 
+____ ____ ho_s 
+____ ____ fo_n 
+____ ____ ____ 
+____ rr_e ____ 
+Round 20
+Creature (rrover east 5 1) takes action: hop
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap north 1 0) takes action: left
+Creature (food north 3 2) takes action: left
+____ ____ ____ 
+fl_w ____ ____ 
+____ ____ ho_s 
+____ ____ fo_w 
+____ ____ ____ 
+____ ____ rr_e 
+Round 21
+Creature (rrover east 5 2) takes action: right
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap west 1 0) takes action: left
+____ ____ ____ 
+fl_s ____ ____ 
+____ ____ ho_s 
+____ ____ fo_w 
+____ ____ ____ 
+____ ____ rr_s 
+Round 22
+Creature (rrover south 5 2) takes action: right
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap south 1 0) takes action: left
+Creature (food west 3 2) takes action: left
+____ ____ ____ 
+fl_e ____ ____ 
+____ ____ ho_s 
+____ ____ fo_s 
+____ ____ ____ 
+____ ____ rr_w 
+Round 23
+Creature (rrover west 5 2) takes action: hop
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap east 1 0) takes action: left
+____ ____ ____ 
+fl_n ____ ____ 
+____ ____ ho_s 
+____ ____ fo_s 
+____ ____ ____ 
+____ rr_w ____ 
+Round 24
+Creature (rrover west 5 1) takes action: hop
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap north 1 0) takes action: left
+Creature (food south 3 2) takes action: left
+____ ____ ____ 
+fl_w ____ ____ 
+____ ____ ho_s 
+____ ____ fo_e 
+____ ____ ____ 
+rr_w ____ ____ 
+Round 25
+Creature (rrover west 5 0) takes action: right
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap west 1 0) takes action: left
+____ ____ ____ 
+fl_s ____ ____ 
+____ ____ ho_s 
+____ ____ fo_e 
+____ ____ ____ 
+rr_n ____ ____ 
+Round 26
+Creature (rrover north 5 0) takes action: right
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap south 1 0) takes action: left
+Creature (food east 3 2) takes action: left
+____ ____ ____ 
+fl_e ____ ____ 
+____ ____ ho_s 
+____ ____ fo_n 
+____ ____ ____ 
+rr_e ____ ____ 
+Round 27
+Creature (rrover east 5 0) takes action: hop
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap east 1 0) takes action: left
+____ ____ ____ 
+fl_n ____ ____ 
+____ ____ ho_s 
+____ ____ fo_n 
+____ ____ ____ 
+____ rr_e ____ 
+Round 28
+Creature (rrover east 5 1) takes action: hop
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap north 1 0) takes action: left
+Creature (food north 3 2) takes action: left
+____ ____ ____ 
+fl_w ____ ____ 
+____ ____ ho_s 
+____ ____ fo_w 
+____ ____ ____ 
+____ ____ rr_e 
+Round 29
+Creature (rrover east 5 2) takes action: right
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap west 1 0) takes action: left
+____ ____ ____ 
+fl_s ____ ____ 
+____ ____ ho_s 
+____ ____ fo_w 
+____ ____ ____ 
+____ ____ rr_s 
+Round 30
+Creature (rrover south 5 2) takes action: right
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap south 1 0) takes action: left
+Creature (food west 3 2) takes action: left
+____ ____ ____ 
+fl_e ____ ____ 
+____ ____ ho_s 
+____ ____ fo_s 
+____ ____ ____ 
+____ ____ rr_w 
+Round 31
+Creature (rrover west 5 2) takes action: hop
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap east 1 0) takes action: left
+____ ____ ____ 
+fl_n ____ ____ 
+____ ____ ho_s 
+____ ____ fo_s 
+____ ____ ____ 
+____ rr_w ____ 
+Round 32
+Creature (rrover west 5 1) takes action: hop
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap north 1 0) takes action: left
+Creature (food south 3 2) takes action: left
+____ ____ ____ 
+fl_w ____ ____ 
+____ ____ ho_s 
+____ ____ fo_e 
+____ ____ ____ 
+rr_w ____ ____ 
+Round 33
+Creature (rrover west 5 0) takes action: right
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap west 1 0) takes action: left
+____ ____ ____ 
+fl_s ____ ____ 
+____ ____ ho_s 
+____ ____ fo_e 
+____ ____ ____ 
+rr_n ____ ____ 
+Round 34
+Creature (rrover north 5 0) takes action: right
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap south 1 0) takes action: left
+Creature (food east 3 2) takes action: left
+____ ____ ____ 
+fl_e ____ ____ 
+____ ____ ho_s 
+____ ____ fo_n 
+____ ____ ____ 
+rr_e ____ ____ 
+Round 35
+Creature (rrover east 5 0) takes action: hop
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap east 1 0) takes action: left
+____ ____ ____ 
+fl_n ____ ____ 
+____ ____ ho_s 
+____ ____ fo_n 
+____ ____ ____ 
+____ rr_e ____ 
+Round 36
+Creature (rrover east 5 1) takes action: hop
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap north 1 0) takes action: left
+Creature (food north 3 2) takes action: left
+____ ____ ____ 
+fl_w ____ ____ 
+____ ____ ho_s 
+____ ____ fo_w 
+____ ____ ____ 
+____ ____ rr_e 
+Round 37
+Creature (rrover east 5 2) takes action: right
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap west 1 0) takes action: left
+____ ____ ____ 
+fl_s ____ ____ 
+____ ____ ho_s 
+____ ____ fo_w 
+____ ____ ____ 
+____ ____ rr_s 
+Round 38
+Creature (rrover south 5 2) takes action: right
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap south 1 0) takes action: left
+Creature (food west 3 2) takes action: left
+____ ____ ____ 
+fl_e ____ ____ 
+____ ____ ho_s 
+____ ____ fo_s 
+____ ____ ____ 
+____ ____ rr_w 
+Round 39
+Creature (rrover west 5 2) takes action: hop
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap east 1 0) takes action: left
+____ ____ ____ 
+fl_n ____ ____ 
+____ ____ ho_s 
+____ ____ fo_s 
+____ ____ ____ 
+____ rr_w ____ 
+Round 40
+Creature (rrover west 5 1) takes action: hop
+Creature (hop south 2 2) takes action: hop
+Creature (flytrap north 1 0) takes action: left
+Creature (food south 3 2) takes action: left
+____ ____ ____ 
+fl_w ____ ____ 
+____ ____ ho_s 
+____ ____ fo_e 
+____ ____ ____ 
+rr_w ____ ____ 

@@ -1,0 +1,14 @@
+4
+7
+FPPPLFP
+PLHPPFP
+HFPFPPP
+PPPHPPP
+flytrap east 2 4 
+rrover west 1 4 a f 
+flytrap east 3 0 
+landmine north 2 1 f 
+landmine north 0 1 a f 
+landmine north 1 1 
+lrover east 3 4 
+landmine north 0 2 

@@ -1,0 +1,44 @@
+# Shuffling the deck
+cut at 37
+cut at 24
+cut at 17
+cut at 37
+# Hand 1 bankroll 30
+# Player bets 6
+Player dealt Nine of Diamonds
+Dealer dealt Four of Diamonds
+Player dealt Four of Clubs
+Player's total is 13
+Dealer's hole card is Queen of Diamonds
+Dealer dealt Jack of Spades
+Dealer's total is 24
+# Dealer busts
+# Hand 2 bankroll 36
+# Player bets 6
+Player dealt Seven of Hearts
+Dealer dealt Five of Clubs
+Player dealt King of Clubs
+Player's total is 17
+Dealer's hole card is Ten of Diamonds
+Dealer dealt Six of Spades
+Dealer's total is 21
+# Dealer wins
+# Hand 3 bankroll 30
+# Player bets 6
+Player dealt Six of Clubs
+Dealer dealt Ace of Spades
+Player dealt Queen of Spades
+Player dealt Seven of Clubs
+Player's total is 23
+# Player busts
+# Hand 4 bankroll 24
+# Player bets 6
+Player dealt Two of Spades
+Dealer dealt Jack of Diamonds
+Player dealt Five of Diamonds
+Player dealt King of Diamonds
+Player's total is 17
+Dealer's hole card is Eight of Clubs
+Dealer's total is 18
+# Dealer wins
+# Player has 18 after 4 hands

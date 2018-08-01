@@ -1,0 +1,21 @@
+# Shuffling the deck
+cut at 18
+cut at 21
+# Hand 1 bankroll 21
+# Player bets 5
+Player dealt Queen of Spades
+Dealer dealt Seven of Hearts
+Player dealt Five of Clubs
+Player dealt King of Spades
+# Player busts
+# Hand 2 bankroll 16
+# Player bets 5
+Player dealt Eight of Hearts
+Dealer dealt Six of Clubs
+Player dealt Three of Spades
+Player dealt Nine of Hearts
+Player's total is 20
+Dealer's hole card is Ace of Spades
+Dealer's total is 17
+# Player wins
+# Player has 21 after 2 hands

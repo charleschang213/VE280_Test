@@ -1,0 +1,30 @@
+# Shuffling the deck
+cut at 26
+cut at 37
+cut at 34
+cut at 32
+cut at 14
+cut at 14
+# Hand 1 bankroll 65
+# Player bets 16
+Player dealt Ace of Clubs
+Dealer dealt Seven of Clubs
+Player dealt Two of Clubs
+Player dealt Eight of Clubs
+Player's total is 21
+Dealer's hole card is Six of Hearts
+Dealer dealt Two of Spades
+Dealer dealt Queen of Diamonds
+Dealer's total is 25
+# Dealer busts
+# Hand 2 bankroll 81
+# Player bets 16
+Player dealt Jack of Spades
+Dealer dealt Three of Clubs
+Player dealt King of Diamonds
+Player's total is 20
+Dealer's hole card is Queen of Spades
+Dealer dealt Jack of Hearts
+Dealer's total is 23
+# Dealer busts
+# Player has 97 after 2 hands

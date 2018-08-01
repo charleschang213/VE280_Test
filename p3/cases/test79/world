@@ -1,0 +1,24 @@
+11
+13
+PPPPHFPFPPPPH
+PPPPPPPLPPLPL
+PHFPLLPPPPPLP
+PHPPLPHHLHPLF
+LPPPHFPPPLPPP
+PFPPFPPFFPPPH
+HPPFPPLPPFPPP
+PHPPHPPPPHPFF
+HLLPFFLPPHPPP
+PFPPHLPPPPFPP
+PPPLPPPHLPPFP
+food west 1 8 
+lrover west 10 9 
+alt_rover north 9 7 
+landmine east 10 3 a 
+landmine east 1 2 a 
+food north 0 1 f 
+landmine east 8 0 f 
+landmine east 8 1 f 
+lrover north 0 7 
+lrover east 4 6 a 
+lrover north 2 10 

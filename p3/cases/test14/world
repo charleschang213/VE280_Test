@@ -1,0 +1,24 @@
+12
+2
+LP
+LL
+HL
+PL
+HP
+HH
+PL
+LH
+PF
+FH
+LF
+FF
+landmine south 5 0 f
+landmine east 9 0 a
+rrover east 1 0 f
+food north 1 1 a f
+rrover north 0 0 f
+alt_rover south 9 1
+landmine east 10 1
+rrover west 8 1 f
+flytrap east 7 1 a
+hop south 10 0 f

@@ -1,0 +1,7 @@
+2
+3
+HPP
+PPP
+path_finder east 0 2 f 
+hop east 0 0 a 
+hop north 1 1 

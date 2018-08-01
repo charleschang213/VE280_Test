@@ -1,0 +1,20 @@
+7
+8
+PPLFFPLL
+PPPFFPPP
+PPFLPPPP
+PPPPPLPP
+PPPFLPPP
+FPHPPHFL
+PPPLFLPP
+lrover north 0 0 
+rrover west 6 6 
+landmine west 0 5 
+flytrap east 3 1 
+landmine west 3 0 
+landmine east 1 1 
+landmine north 0 1 
+lrover east 4 0 f 
+alt_rover west 6 4 
+alt_rover west 6 0 f 
+flytrap east 3 7 a f 

@@ -1,0 +1,94 @@
+# Shuffling the deck
+cut at 24
+cut at 30
+cut at 15
+cut at 38
+cut at 18
+cut at 20
+cut at 34
+cut at 26
+# Hand 1 bankroll 64
+# Player bets 20
+Player dealt Eight of Clubs
+Dealer dealt Four of Spades
+Player dealt Seven of Diamonds
+Player's total is 15
+Dealer's hole card is Nine of Hearts
+Dealer dealt Queen of Hearts
+Dealer's total is 23
+# Dealer busts
+# Hand 2 bankroll 84
+# Player bets 20
+Player dealt Ace of Diamonds
+Dealer dealt Eight of Hearts
+Player dealt Ace of Spades
+Player dealt Eight of Spades
+Player's total is 20
+Dealer's hole card is Ten of Spades
+Dealer's total is 18
+# Player wins
+# Hand 3 bankroll 104
+# Player bets 20
+Player dealt Two of Diamonds
+Dealer dealt Queen of Spades
+Player dealt Jack of Diamonds
+Player dealt Eight of Diamonds
+Player's total is 20
+Dealer's hole card is Five of Hearts
+Dealer dealt Queen of Diamonds
+Dealer's total is 25
+# Dealer busts
+# Hand 4 bankroll 124
+# Player bets 20
+Player dealt Nine of Clubs
+Dealer dealt Five of Diamonds
+Player dealt Two of Hearts
+Player dealt King of Spades
+Player's total is 21
+Dealer's hole card is Three of Spades
+Dealer dealt Four of Clubs
+Dealer dealt King of Diamonds
+Dealer's total is 22
+# Dealer busts
+# Hand 5 bankroll 144
+# Player bets 20
+Player dealt Three of Diamonds
+Dealer dealt Two of Clubs
+Player dealt Nine of Diamonds
+Player dealt Four of Hearts
+Player's total is 16
+Dealer's hole card is Ace of Hearts
+Dealer dealt Two of Spades
+Dealer dealt Three of Clubs
+Dealer's total is 18
+# Dealer wins
+# Hand 6 bankroll 124
+# Player bets 40
+Player dealt Six of Diamonds
+Dealer dealt Five of Spades
+Player dealt Six of Clubs
+Player's total is 12
+Dealer's hole card is Seven of Clubs
+Dealer dealt Ace of Clubs
+Dealer dealt Seven of Spades
+Dealer's total is 20
+# Dealer wins
+# Hand 7 bankroll 84
+# Shuffling the deck
+cut at 39
+cut at 22
+cut at 33
+cut at 37
+cut at 38
+cut at 37
+cut at 38
+# Player bets 20
+Player dealt Queen of Spades
+Dealer dealt Six of Hearts
+Player dealt Jack of Clubs
+Player's total is 20
+Dealer's hole card is Seven of Diamonds
+Dealer dealt Four of Clubs
+Dealer's total is 17
+# Player wins
+# Player has 104 after 7 hands

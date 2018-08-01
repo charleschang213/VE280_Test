@@ -1,0 +1,362 @@
+Initial state
+____ ____ ____ 
+fl_w ____ ____ 
+____ ____ ho_s 
+____ ____ fo_e 
+____ ____ ____ 
+rr_w ____ ____ 
+Round 1
+Creature (rrover west 5 0) takes action:
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: right
+____ ____ ____ 
+fl_w ____ ____ 
+____ ____ ho_s 
+____ ____ fo_e 
+____ ____ ____ 
+rr_n ____ ____ 
+Creature (hop south 2 2) takes action:
+Instruction 1: hop
+____ ____ ____ 
+fl_w ____ ____ 
+____ ____ ho_s 
+____ ____ fo_e 
+____ ____ ____ 
+rr_n ____ ____ 
+Creature (flytrap west 1 0) takes action:
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ 
+fl_s ____ ____ 
+____ ____ ho_s 
+____ ____ fo_e 
+____ ____ ____ 
+rr_n ____ ____ 
+Round 2
+Creature (rrover north 5 0) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: right
+____ ____ ____ 
+fl_s ____ ____ 
+____ ____ ho_s 
+____ ____ fo_e 
+____ ____ ____ 
+rr_e ____ ____ 
+Creature (hop south 2 2) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ ____ ____ 
+fl_s ____ ____ 
+____ ____ ho_s 
+____ ____ fo_e 
+____ ____ ____ 
+rr_e ____ ____ 
+Creature (flytrap south 1 0) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ 
+fl_e ____ ____ 
+____ ____ ho_s 
+____ ____ fo_e 
+____ ____ ____ 
+rr_e ____ ____ 
+Creature (food east 3 2) takes action:
+Instruction 1: left
+____ ____ ____ 
+fl_e ____ ____ 
+____ ____ ho_s 
+____ ____ fo_n 
+____ ____ ____ 
+rr_e ____ ____ 
+Round 3
+Creature (rrover east 5 0) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ ____ ____ 
+fl_e ____ ____ 
+____ ____ ho_s 
+____ ____ fo_n 
+____ ____ ____ 
+____ rr_e ____ 
+Creature (hop south 2 2) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ ____ ____ 
+fl_e ____ ____ 
+____ ____ ho_s 
+____ ____ fo_n 
+____ ____ ____ 
+____ rr_e ____ 
+Creature (flytrap east 1 0) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ 
+fl_n ____ ____ 
+____ ____ ho_s 
+____ ____ fo_n 
+____ ____ ____ 
+____ rr_e ____ 
+Round 4
+Creature (rrover east 5 1) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ ____ ____ 
+fl_n ____ ____ 
+____ ____ ho_s 
+____ ____ fo_n 
+____ ____ ____ 
+____ ____ rr_e 
+Creature (hop south 2 2) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ ____ ____ 
+fl_n ____ ____ 
+____ ____ ho_s 
+____ ____ fo_n 
+____ ____ ____ 
+____ ____ rr_e 
+Creature (flytrap north 1 0) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ 
+fl_w ____ ____ 
+____ ____ ho_s 
+____ ____ fo_n 
+____ ____ ____ 
+____ ____ rr_e 
+Creature (food north 3 2) takes action:
+Instruction 2: go 1
+Instruction 1: left
+____ ____ ____ 
+fl_w ____ ____ 
+____ ____ ho_s 
+____ ____ fo_w 
+____ ____ ____ 
+____ ____ rr_e 
+Round 5
+Creature (rrover east 5 2) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: right
+____ ____ ____ 
+fl_w ____ ____ 
+____ ____ ho_s 
+____ ____ fo_w 
+____ ____ ____ 
+____ ____ rr_s 
+Creature (hop south 2 2) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ ____ ____ 
+fl_w ____ ____ 
+____ ____ ho_s 
+____ ____ fo_w 
+____ ____ ____ 
+____ ____ rr_s 
+Creature (flytrap west 1 0) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ 
+fl_s ____ ____ 
+____ ____ ho_s 
+____ ____ fo_w 
+____ ____ ____ 
+____ ____ rr_s 
+Round 6
+Creature (rrover south 5 2) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: right
+____ ____ ____ 
+fl_s ____ ____ 
+____ ____ ho_s 
+____ ____ fo_w 
+____ ____ ____ 
+____ ____ rr_w 
+Creature (hop south 2 2) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ ____ ____ 
+fl_s ____ ____ 
+____ ____ ho_s 
+____ ____ fo_w 
+____ ____ ____ 
+____ ____ rr_w 
+Creature (flytrap south 1 0) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ 
+fl_e ____ ____ 
+____ ____ ho_s 
+____ ____ fo_w 
+____ ____ ____ 
+____ ____ rr_w 
+Creature (food west 3 2) takes action:
+Instruction 2: go 1
+Instruction 1: left
+____ ____ ____ 
+fl_e ____ ____ 
+____ ____ ho_s 
+____ ____ fo_s 
+____ ____ ____ 
+____ ____ rr_w 
+Round 7
+Creature (rrover west 5 2) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ ____ ____ 
+fl_e ____ ____ 
+____ ____ ho_s 
+____ ____ fo_s 
+____ ____ ____ 
+____ rr_w ____ 
+Creature (hop south 2 2) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ ____ ____ 
+fl_e ____ ____ 
+____ ____ ho_s 
+____ ____ fo_s 
+____ ____ ____ 
+____ rr_w ____ 
+Creature (flytrap east 1 0) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ 
+fl_n ____ ____ 
+____ ____ ho_s 
+____ ____ fo_s 
+____ ____ ____ 
+____ rr_w ____ 
+Round 8
+Creature (rrover west 5 1) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ ____ ____ 
+fl_n ____ ____ 
+____ ____ ho_s 
+____ ____ fo_s 
+____ ____ ____ 
+rr_w ____ ____ 
+Creature (hop south 2 2) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ ____ ____ 
+fl_n ____ ____ 
+____ ____ ho_s 
+____ ____ fo_s 
+____ ____ ____ 
+rr_w ____ ____ 
+Creature (flytrap north 1 0) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ 
+fl_w ____ ____ 
+____ ____ ho_s 
+____ ____ fo_s 
+____ ____ ____ 
+rr_w ____ ____ 
+Creature (food south 3 2) takes action:
+Instruction 2: go 1
+Instruction 1: left
+____ ____ ____ 
+fl_w ____ ____ 
+____ ____ ho_s 
+____ ____ fo_e 
+____ ____ ____ 
+rr_w ____ ____ 
+Round 9
+Creature (rrover west 5 0) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: right
+____ ____ ____ 
+fl_w ____ ____ 
+____ ____ ho_s 
+____ ____ fo_e 
+____ ____ ____ 
+rr_n ____ ____ 
+Creature (hop south 2 2) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ ____ ____ 
+fl_w ____ ____ 
+____ ____ ho_s 
+____ ____ fo_e 
+____ ____ ____ 
+rr_n ____ ____ 
+Creature (flytrap west 1 0) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ 
+fl_s ____ ____ 
+____ ____ ho_s 
+____ ____ fo_e 
+____ ____ ____ 
+rr_n ____ ____ 
+Round 10
+Creature (rrover north 5 0) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: right
+____ ____ ____ 
+fl_s ____ ____ 
+____ ____ ho_s 
+____ ____ fo_e 
+____ ____ ____ 
+rr_e ____ ____ 
+Creature (hop south 2 2) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ ____ ____ 
+fl_s ____ ____ 
+____ ____ ho_s 
+____ ____ fo_e 
+____ ____ ____ 
+rr_e ____ ____ 
+Creature (flytrap south 1 0) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ 
+fl_e ____ ____ 
+____ ____ ho_s 
+____ ____ fo_e 
+____ ____ ____ 
+rr_e ____ ____ 
+Creature (food east 3 2) takes action:
+Instruction 2: go 1
+Instruction 1: left
+____ ____ ____ 
+fl_e ____ ____ 
+____ ____ ho_s 
+____ ____ fo_n 
+____ ____ ____ 
+rr_e ____ ____ 

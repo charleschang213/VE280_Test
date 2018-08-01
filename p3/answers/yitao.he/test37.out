@@ -1,0 +1,283 @@
+Initial state
+fl_w ____ ____ ____ ____ 
+fl_e fo_e lr_s ho_w ____ 
+Round 1
+Creature (flytrap west 0 0) takes action: left
+Creature (lrover south 1 2) takes action: left
+Creature (hop west 1 3) takes action: hop
+fl_s ____ ____ ____ ____ 
+fl_e fo_e lr_e ho_w ____ 
+Round 2
+Creature (flytrap south 0 0) takes action: left
+Creature (lrover east 1 2) takes action: hop
+Creature (flytrap east 1 0) takes action: infect
+Creature (hop west 1 3) takes action: hop
+Creature (flytrap east 1 1) takes action: infect
+fl_e ____ ____ ____ ____ 
+fl_e fl_e fl_e ho_w ____ 
+Round 3
+Creature (flytrap east 0 0) takes action: left
+Creature (flytrap east 1 2) takes action: left
+Creature (hop west 1 3) takes action: hop
+fl_n ____ ____ ____ ____ 
+fl_e fl_e fl_n ho_w ____ 
+Round 4
+Creature (flytrap north 0 0) takes action: left
+Creature (flytrap north 1 2) takes action: left
+Creature (flytrap east 1 0) takes action: left
+Creature (hop west 1 3) takes action: hop
+Creature (flytrap east 1 1) takes action: left
+fl_w ____ ____ ____ ____ 
+fl_n fl_n fl_w ho_w ____ 
+Round 5
+Creature (flytrap west 0 0) takes action: left
+Creature (flytrap west 1 2) takes action: left
+Creature (hop west 1 3) takes action: hop
+fl_s ____ ____ ____ ____ 
+fl_n fl_n fl_s ho_w ____ 
+Round 6
+Creature (flytrap south 0 0) takes action: left
+Creature (flytrap south 1 2) takes action: left
+Creature (flytrap north 1 0) takes action: left
+Creature (hop west 1 3) takes action: hop
+Creature (flytrap north 1 1) takes action: left
+fl_e ____ ____ ____ ____ 
+fl_w fl_w fl_e ho_w ____ 
+Round 7
+Creature (flytrap east 0 0) takes action: left
+Creature (flytrap east 1 2) takes action: left
+Creature (hop west 1 3) takes action: hop
+fl_n ____ ____ ____ ____ 
+fl_w fl_w fl_n ho_w ____ 
+Round 8
+Creature (flytrap north 0 0) takes action: left
+Creature (flytrap north 1 2) takes action: left
+Creature (flytrap west 1 0) takes action: left
+Creature (hop west 1 3) takes action: hop
+Creature (flytrap west 1 1) takes action: left
+fl_w ____ ____ ____ ____ 
+fl_s fl_s fl_w ho_w ____ 
+Round 9
+Creature (flytrap west 0 0) takes action: left
+Creature (flytrap west 1 2) takes action: left
+Creature (hop west 1 3) takes action: hop
+fl_s ____ ____ ____ ____ 
+fl_s fl_s fl_s ho_w ____ 
+Round 10
+Creature (flytrap south 0 0) takes action: left
+Creature (flytrap south 1 2) takes action: left
+Creature (flytrap south 1 0) takes action: left
+Creature (hop west 1 3) takes action: hop
+Creature (flytrap south 1 1) takes action: left
+fl_e ____ ____ ____ ____ 
+fl_e fl_e fl_e ho_w ____ 
+Round 11
+Creature (flytrap east 0 0) takes action: left
+Creature (flytrap east 1 2) takes action: left
+Creature (hop west 1 3) takes action: hop
+fl_n ____ ____ ____ ____ 
+fl_e fl_e fl_n ho_w ____ 
+Round 12
+Creature (flytrap north 0 0) takes action: left
+Creature (flytrap north 1 2) takes action: left
+Creature (flytrap east 1 0) takes action: left
+Creature (hop west 1 3) takes action: hop
+Creature (flytrap east 1 1) takes action: left
+fl_w ____ ____ ____ ____ 
+fl_n fl_n fl_w ho_w ____ 
+Round 13
+Creature (flytrap west 0 0) takes action: left
+Creature (flytrap west 1 2) takes action: left
+Creature (hop west 1 3) takes action: hop
+fl_s ____ ____ ____ ____ 
+fl_n fl_n fl_s ho_w ____ 
+Round 14
+Creature (flytrap south 0 0) takes action: left
+Creature (flytrap south 1 2) takes action: left
+Creature (flytrap north 1 0) takes action: left
+Creature (hop west 1 3) takes action: hop
+Creature (flytrap north 1 1) takes action: left
+fl_e ____ ____ ____ ____ 
+fl_w fl_w fl_e ho_w ____ 
+Round 15
+Creature (flytrap east 0 0) takes action: left
+Creature (flytrap east 1 2) takes action: left
+Creature (hop west 1 3) takes action: hop
+fl_n ____ ____ ____ ____ 
+fl_w fl_w fl_n ho_w ____ 
+Round 16
+Creature (flytrap north 0 0) takes action: left
+Creature (flytrap north 1 2) takes action: left
+Creature (flytrap west 1 0) takes action: left
+Creature (hop west 1 3) takes action: hop
+Creature (flytrap west 1 1) takes action: left
+fl_w ____ ____ ____ ____ 
+fl_s fl_s fl_w ho_w ____ 
+Round 17
+Creature (flytrap west 0 0) takes action: left
+Creature (flytrap west 1 2) takes action: left
+Creature (hop west 1 3) takes action: hop
+fl_s ____ ____ ____ ____ 
+fl_s fl_s fl_s ho_w ____ 
+Round 18
+Creature (flytrap south 0 0) takes action: left
+Creature (flytrap south 1 2) takes action: left
+Creature (flytrap south 1 0) takes action: left
+Creature (hop west 1 3) takes action: hop
+Creature (flytrap south 1 1) takes action: left
+fl_e ____ ____ ____ ____ 
+fl_e fl_e fl_e ho_w ____ 
+Round 19
+Creature (flytrap east 0 0) takes action: left
+Creature (flytrap east 1 2) takes action: left
+Creature (hop west 1 3) takes action: hop
+fl_n ____ ____ ____ ____ 
+fl_e fl_e fl_n ho_w ____ 
+Round 20
+Creature (flytrap north 0 0) takes action: left
+Creature (flytrap north 1 2) takes action: left
+Creature (flytrap east 1 0) takes action: left
+Creature (hop west 1 3) takes action: hop
+Creature (flytrap east 1 1) takes action: left
+fl_w ____ ____ ____ ____ 
+fl_n fl_n fl_w ho_w ____ 
+Round 21
+Creature (flytrap west 0 0) takes action: left
+Creature (flytrap west 1 2) takes action: left
+Creature (hop west 1 3) takes action: hop
+fl_s ____ ____ ____ ____ 
+fl_n fl_n fl_s ho_w ____ 
+Round 22
+Creature (flytrap south 0 0) takes action: left
+Creature (flytrap south 1 2) takes action: left
+Creature (flytrap north 1 0) takes action: left
+Creature (hop west 1 3) takes action: hop
+Creature (flytrap north 1 1) takes action: left
+fl_e ____ ____ ____ ____ 
+fl_w fl_w fl_e ho_w ____ 
+Round 23
+Creature (flytrap east 0 0) takes action: left
+Creature (flytrap east 1 2) takes action: left
+Creature (hop west 1 3) takes action: hop
+fl_n ____ ____ ____ ____ 
+fl_w fl_w fl_n ho_w ____ 
+Round 24
+Creature (flytrap north 0 0) takes action: left
+Creature (flytrap north 1 2) takes action: left
+Creature (flytrap west 1 0) takes action: left
+Creature (hop west 1 3) takes action: hop
+Creature (flytrap west 1 1) takes action: left
+fl_w ____ ____ ____ ____ 
+fl_s fl_s fl_w ho_w ____ 
+Round 25
+Creature (flytrap west 0 0) takes action: left
+Creature (flytrap west 1 2) takes action: left
+Creature (hop west 1 3) takes action: hop
+fl_s ____ ____ ____ ____ 
+fl_s fl_s fl_s ho_w ____ 
+Round 26
+Creature (flytrap south 0 0) takes action: left
+Creature (flytrap south 1 2) takes action: left
+Creature (flytrap south 1 0) takes action: left
+Creature (hop west 1 3) takes action: hop
+Creature (flytrap south 1 1) takes action: left
+fl_e ____ ____ ____ ____ 
+fl_e fl_e fl_e ho_w ____ 
+Round 27
+Creature (flytrap east 0 0) takes action: left
+Creature (flytrap east 1 2) takes action: left
+Creature (hop west 1 3) takes action: hop
+fl_n ____ ____ ____ ____ 
+fl_e fl_e fl_n ho_w ____ 
+Round 28
+Creature (flytrap north 0 0) takes action: left
+Creature (flytrap north 1 2) takes action: left
+Creature (flytrap east 1 0) takes action: left
+Creature (hop west 1 3) takes action: hop
+Creature (flytrap east 1 1) takes action: left
+fl_w ____ ____ ____ ____ 
+fl_n fl_n fl_w ho_w ____ 
+Round 29
+Creature (flytrap west 0 0) takes action: left
+Creature (flytrap west 1 2) takes action: left
+Creature (hop west 1 3) takes action: hop
+fl_s ____ ____ ____ ____ 
+fl_n fl_n fl_s ho_w ____ 
+Round 30
+Creature (flytrap south 0 0) takes action: left
+Creature (flytrap south 1 2) takes action: left
+Creature (flytrap north 1 0) takes action: left
+Creature (hop west 1 3) takes action: hop
+Creature (flytrap north 1 1) takes action: left
+fl_e ____ ____ ____ ____ 
+fl_w fl_w fl_e ho_w ____ 
+Round 31
+Creature (flytrap east 0 0) takes action: left
+Creature (flytrap east 1 2) takes action: left
+Creature (hop west 1 3) takes action: hop
+fl_n ____ ____ ____ ____ 
+fl_w fl_w fl_n ho_w ____ 
+Round 32
+Creature (flytrap north 0 0) takes action: left
+Creature (flytrap north 1 2) takes action: left
+Creature (flytrap west 1 0) takes action: left
+Creature (hop west 1 3) takes action: hop
+Creature (flytrap west 1 1) takes action: left
+fl_w ____ ____ ____ ____ 
+fl_s fl_s fl_w ho_w ____ 
+Round 33
+Creature (flytrap west 0 0) takes action: left
+Creature (flytrap west 1 2) takes action: left
+Creature (hop west 1 3) takes action: hop
+fl_s ____ ____ ____ ____ 
+fl_s fl_s fl_s ho_w ____ 
+Round 34
+Creature (flytrap south 0 0) takes action: left
+Creature (flytrap south 1 2) takes action: left
+Creature (flytrap south 1 0) takes action: left
+Creature (hop west 1 3) takes action: hop
+Creature (flytrap south 1 1) takes action: left
+fl_e ____ ____ ____ ____ 
+fl_e fl_e fl_e ho_w ____ 
+Round 35
+Creature (flytrap east 0 0) takes action: left
+Creature (flytrap east 1 2) takes action: left
+Creature (hop west 1 3) takes action: hop
+fl_n ____ ____ ____ ____ 
+fl_e fl_e fl_n ho_w ____ 
+Round 36
+Creature (flytrap north 0 0) takes action: left
+Creature (flytrap north 1 2) takes action: left
+Creature (flytrap east 1 0) takes action: left
+Creature (hop west 1 3) takes action: hop
+Creature (flytrap east 1 1) takes action: left
+fl_w ____ ____ ____ ____ 
+fl_n fl_n fl_w ho_w ____ 
+Round 37
+Creature (flytrap west 0 0) takes action: left
+Creature (flytrap west 1 2) takes action: left
+Creature (hop west 1 3) takes action: hop
+fl_s ____ ____ ____ ____ 
+fl_n fl_n fl_s ho_w ____ 
+Round 38
+Creature (flytrap south 0 0) takes action: left
+Creature (flytrap south 1 2) takes action: left
+Creature (flytrap north 1 0) takes action: left
+Creature (hop west 1 3) takes action: hop
+Creature (flytrap north 1 1) takes action: left
+fl_e ____ ____ ____ ____ 
+fl_w fl_w fl_e ho_w ____ 
+Round 39
+Creature (flytrap east 0 0) takes action: left
+Creature (flytrap east 1 2) takes action: left
+Creature (hop west 1 3) takes action: hop
+fl_n ____ ____ ____ ____ 
+fl_w fl_w fl_n ho_w ____ 
+Round 40
+Creature (flytrap north 0 0) takes action: left
+Creature (flytrap north 1 2) takes action: left
+Creature (flytrap west 1 0) takes action: left
+Creature (hop west 1 3) takes action: hop
+Creature (flytrap west 1 1) takes action: left
+fl_w ____ ____ ____ ____ 
+fl_s fl_s fl_w ho_w ____ 

@@ -1,0 +1,11 @@
+3
+2
+LH
+HP
+FF
+hop east 1 0
+lrover west 2 0
+rrover north 0 0 f
+landmine east 2 1 a
+hop south 1 1
+lrover west 0 1

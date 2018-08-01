@@ -1,0 +1,20 @@
+9
+12
+PLPLLFPPLPPP
+PHPPPHPPPPPP
+LPLPPPPFPPPP
+PFPHLPPPPPPP
+PFPFHPLFPPPF
+PPPPPLPFPPFP
+PLPHPFPPPPPP
+PHLPPLPFLPPP
+PFPFFFHPPPPF
+rrover east 1 3 
+flytrap north 6 4 a 
+lrover west 1 1 a 
+rrover north 4 8 
+alt_rover west 2 11 a f 
+landmine west 2 5 f 
+alt_rover north 4 1 f 
+lrover west 1 2 a f 
+hop north 5 0 a f 

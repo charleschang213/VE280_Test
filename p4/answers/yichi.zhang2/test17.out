@@ -1,0 +1,73 @@
+# Shuffling the deck
+cut at 24
+cut at 37
+cut at 17
+cut at 20
+cut at 16
+cut at 16
+cut at 36
+cut at 28
+cut at 27
+# Hand 1 bankroll 89
+# Player bets 4
+Player dealt Six of Spades
+Dealer dealt Six of Hearts
+Player dealt Three of Clubs
+Player dealt Ace of Clubs
+Player's total is 20
+Dealer's hole card is King of Spades
+Dealer dealt Six of Diamonds
+Dealer's total is 22
+# Dealer busts
+# Hand 2 bankroll 93
+# Player bets 4
+Player dealt Four of Spades
+Dealer dealt Nine of Clubs
+Player dealt Four of Clubs
+Player dealt Three of Spades
+Player dealt King of Diamonds
+Player's total is 21
+Dealer's hole card is Five of Diamonds
+Dealer dealt Three of Hearts
+Dealer's total is 17
+# Player wins
+# Hand 3 bankroll 97
+# Player bets 4
+Player dealt Seven of Hearts
+Dealer dealt Ace of Hearts
+Player dealt Eight of Clubs
+Player dealt Jack of Spades
+# Player busts
+# Hand 4 bankroll 93
+# Player bets 4
+Player dealt Two of Spades
+Dealer dealt Queen of Clubs
+Player dealt Two of Diamonds
+Player dealt King of Hearts
+Player dealt Seven of Clubs
+Player's total is 21
+Dealer's hole card is Ten of Spades
+Dealer's total is 20
+# Player wins
+# Hand 5 bankroll 97
+# Player bets 4
+Player dealt Nine of Diamonds
+Dealer dealt Nine of Spades
+Player dealt Queen of Spades
+Player's total is 19
+Dealer's hole card is Two of Clubs
+Dealer dealt Four of Hearts
+Dealer dealt Ace of Diamonds
+Dealer dealt Six of Clubs
+Dealer's total is 22
+# Dealer busts
+# Hand 6 bankroll 101
+# Player bets 4
+Player dealt Eight of Spades
+Dealer dealt Ten of Hearts
+Player dealt Queen of Diamonds
+Player's total is 18
+Dealer's hole card is Jack of Clubs
+Dealer's total is 20
+# Dealer wins
+# Player has 97 after 6 hands

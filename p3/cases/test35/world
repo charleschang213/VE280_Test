@@ -1,0 +1,38 @@
+18
+5
+FFFPL
+FHHLF
+LPFLP
+FLLHL
+HPPPP
+FHFFL
+HPHFH
+PLLHP
+FLPLP
+FFLHH
+PHLFH
+LPFLH
+LHHLF
+LLLHP
+LFPLH
+FHFLL
+HFFPP
+PLHHF
+rrover east 4 2
+landmine north 2 4 a
+flytrap east 1 2 a f
+landmine west 2 0 f
+lrover north 15 4 f
+hop north 7 0
+rrover west 7 3
+hop west 13 4 f
+hop east 14 3 a f
+lrover north 13 1 f
+landmine east 0 4 a f
+hop south 8 0 f
+alt_rover west 0 1 a
+rrover north 11 2
+alt_rover south 14 1
+flytrap west 2 3 f
+alt_rover west 14 2
+hop east 11 4 f

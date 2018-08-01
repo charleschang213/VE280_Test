@@ -1,0 +1,22 @@
+6
+7
+PFPPPLP
+LFFPPFL
+PPLFPPP
+PPPHLPP
+FHPHPPP
+FPPPHLF
+flytrap east 5 5 
+alt_rover west 4 0 
+rrover east 2 4 a 
+rrover north 3 5 
+alt_rover north 3 4 a f 
+food west 1 2 f 
+flytrap north 2 0 f 
+alt_rover west 1 6 f 
+landmine west 0 0 
+hop east 4 3 f 
+rrover east 2 2 a f 
+landmine east 2 1 
+lrover east 0 1 f 
+hop west 2 5 f 

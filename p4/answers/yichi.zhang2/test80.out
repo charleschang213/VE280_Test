@@ -1,0 +1,41 @@
+# Shuffling the deck
+cut at 34
+cut at 20
+cut at 31
+cut at 28
+cut at 23
+cut at 14
+cut at 34
+cut at 22
+# Hand 1 bankroll 70
+# Player bets 13
+Player dealt Six of Spades
+Dealer dealt Eight of Spades
+Player dealt Two of Hearts
+Player dealt Six of Hearts
+Player dealt Ten of Spades
+# Player busts
+# Hand 2 bankroll 57
+# Player bets 26
+Player dealt Jack of Spades
+Dealer dealt Jack of Clubs
+Player dealt Four of Spades
+Player dealt Queen of Diamonds
+# Player busts
+# Hand 3 bankroll 31
+# Player bets 13
+Player dealt Ten of Clubs
+Dealer dealt Ace of Hearts
+Player dealt Three of Hearts
+Player dealt Three of Clubs
+Player dealt Ten of Diamonds
+# Player busts
+# Hand 4 bankroll 18
+# Player bets 13
+Player dealt Ace of Diamonds
+Dealer dealt Seven of Diamonds
+Player dealt Three of Spades
+Player dealt Eight of Diamonds
+Player dealt King of Diamonds
+# Player busts
+# Player has 5 after 4 hands

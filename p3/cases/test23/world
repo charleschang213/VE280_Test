@@ -1,0 +1,15 @@
+7
+7
+FFLLHLL
+LLFPHHF
+LFHLFFF
+HFPPLHP
+PPHFHLF
+HPPLPLH
+HFPFHLP
+rrover north 4 0 a
+landmine west 1 6 a
+hop north 6 1
+rrover east 1 2
+lrover south 5 5 a f
+landmine west 3 6 f

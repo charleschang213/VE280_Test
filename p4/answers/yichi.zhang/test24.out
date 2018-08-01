@@ -1,0 +1,31 @@
+# Shuffling the deck
+cut at 36
+cut at 27
+cut at 29
+cut at 28
+cut at 18
+cut at 21
+cut at 25
+cut at 19
+cut at 35
+cut at 18
+# Hand 1 bankroll 44
+# Player bets 17
+Player dealt Four of Spades
+Dealer dealt Ten of Clubs
+Player dealt Five of Spades
+Player dealt Jack of Hearts
+Player's total is 19
+Dealer's hole card is Jack of Clubs
+Dealer's total is 20
+# Dealer wins
+# Hand 2 bankroll 27
+# Player bets 17
+Player dealt Eight of Diamonds
+Dealer dealt Ace of Diamonds
+Player dealt Jack of Diamonds
+Player's total is 18
+Dealer's hole card is Nine of Diamonds
+Dealer's total is 20
+# Dealer wins
+# Player has 10 after 2 hands

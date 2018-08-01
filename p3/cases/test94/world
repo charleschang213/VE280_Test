@@ -1,0 +1,26 @@
+13
+15
+LFHPPPLHPPPPPPP
+PFPPPPPLPLPPPPP
+PLPPPFPPPPPFHPF
+PPPPLPHPPPHFPHF
+FPPLPFPPFHPLPPP
+PPLPHFHLLPPFLPF
+PPPLLPPPPPPPPPL
+PFPPPPFPHPPHPPP
+LPPHPPPFPPHPFHF
+PPPLPPHHFHPHLPH
+PPPPPPPPPPPPPLH
+PPPPPPPHPFLPPFL
+PFPFPPPPPPLPPPP
+flytrap north 11 14 
+food east 8 4 
+food north 4 4 
+landmine east 7 3 
+hop north 2 9 a f 
+flytrap east 7 13 a f 
+landmine north 4 12 f 
+flytrap north 2 1 a 
+alt_rover east 12 13 
+landmine east 3 0 a f 
+flytrap east 5 0 f 

@@ -1,0 +1,88 @@
+# Shuffling the deck
+cut at 35
+# Hand 1 bankroll 36
+# Player bets 8
+Player dealt Jack of Clubs
+Dealer dealt Two of Spades
+Player dealt Queen of Clubs
+Player's total is 20
+Dealer's hole card is Three of Spades
+Dealer dealt King of Clubs
+Dealer dealt Four of Spades
+Dealer's total is 19
+# Player wins
+# Hand 2 bankroll 44
+# Player bets 8
+Player dealt Ace of Clubs
+Dealer dealt Five of Spades
+Player dealt Two of Diamonds
+Player dealt Three of Diamonds
+Player dealt Seven of Spades
+Player dealt Four of Diamonds
+Player dealt Eight of Spades
+# Player busts
+# Hand 3 bankroll 36
+# Player bets 16
+Player dealt Five of Diamonds
+Dealer dealt Nine of Spades
+Player dealt Six of Diamonds
+Player dealt Seven of Diamonds
+Player's total is 18
+Dealer's hole card is Ten of Spades
+Dealer's total is 19
+# Dealer wins
+# Hand 4 bankroll 20
+# Player bets 16
+Player dealt Jack of Spades
+Dealer dealt Eight of Diamonds
+Player dealt Queen of Spades
+Player's total is 20
+Dealer's hole card is Nine of Diamonds
+Dealer's total is 17
+# Player wins
+# Hand 5 bankroll 36
+# Player bets 16
+Player dealt King of Spades
+Dealer dealt Ten of Diamonds
+Player dealt Ace of Spades
+# Player dealt natural 21
+# Hand 6 bankroll 60
+# Player bets 8
+Player dealt Two of Hearts
+Dealer dealt Queen of Diamonds
+Player dealt Three of Hearts
+Player dealt Four of Hearts
+Player dealt Ace of Diamonds
+Player's total is 20
+Dealer's hole card is King of Diamonds
+Dealer's total is 20
+# Push
+# Hand 7 bankroll 60
+# Shuffling the deck
+cut at 39
+cut at 22
+cut at 33
+cut at 37
+cut at 38
+cut at 37
+cut at 38
+# Player bets 8
+Player dealt Seven of Spades
+Dealer dealt Queen of Hearts
+Player dealt Two of Clubs
+Player dealt Queen of Spades
+Player's total is 19
+Dealer's hole card is Queen of Clubs
+Dealer's total is 20
+# Dealer wins
+# Hand 8 bankroll 52
+# Player bets 8
+Player dealt Ten of Diamonds
+Dealer dealt Ten of Hearts
+Player dealt Seven of Diamonds
+Player's total is 17
+Dealer's hole card is Two of Hearts
+Dealer dealt Six of Spades
+Dealer's total is 18
+# Dealer wins
+# Player has 44 after 8 hands

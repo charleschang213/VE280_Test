@@ -1,0 +1,12 @@
+6
+3
+LHP
+FHH
+FHP
+FPH
+LLL
+FPF
+rrover west 5 0
+hop south 2 2 a
+flytrap west 1 0
+food east 3 2

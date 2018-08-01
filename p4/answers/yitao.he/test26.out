@@ -1,0 +1,28 @@
+# Shuffling the deck
+cut at 29
+cut at 20
+cut at 29
+cut at 32
+cut at 18
+# Hand 1 bankroll 99
+# Player bets 10
+Player dealt Seven of Diamonds
+Dealer dealt Jack of Hearts
+Player dealt Three of Diamonds
+Player dealt Three of Clubs
+Player dealt Six of Diamonds
+Player's total is 19
+Dealer's hole card is Queen of Clubs
+Dealer's total is 20
+# Dealer wins
+# Hand 2 bankroll 89
+# Player bets 10
+Player dealt Seven of Hearts
+Dealer dealt Two of Diamonds
+Player dealt Ten of Clubs
+Player's total is 17
+Dealer's hole card is Queen of Hearts
+Dealer dealt Six of Clubs
+Dealer's total is 18
+# Dealer wins
+# Player has 79 after 2 hands

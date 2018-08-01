@@ -1,0 +1,1314 @@
+Initial state
+____ la_s ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ____ ____ ho_w ____ fo_e ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ ____ ____ ____ ____ ____ ho_w ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n ____ ____ ____ ____ ____ lr_w 
+ho_e ____ ____ lr_w ____ ____ ____ ____ ____ ____ lr_n rr_n fl_e ____ ____ ____ ____ ____ fl_s ____ 
+Round 1
+Creature (lrover west 2 19) takes action:
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: left
+____ la_s ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ____ ____ ho_w ____ fo_e ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ ____ ____ ____ ____ ____ ho_w ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n ____ ____ ____ ____ ____ lr_s 
+ho_e ____ ____ lr_w ____ ____ ____ ____ ____ ____ lr_n rr_n fl_e ____ ____ ____ ____ ____ fl_s ____ 
+Creature (food east 0 15) takes action:
+Instruction 1: left
+____ la_s ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ____ ____ ho_w ____ fo_n ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ ____ ____ ____ ____ ____ ho_w ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n ____ ____ ____ ____ ____ lr_s 
+ho_e ____ ____ lr_w ____ ____ ____ ____ ____ ____ lr_n rr_n fl_e ____ ____ ____ ____ ____ fl_s ____ 
+Creature (flytrap south 3 18) takes action:
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ la_s ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ____ ____ ho_w ____ fo_n ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ ____ ____ ____ ____ ____ ho_w ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n ____ ____ ____ ____ ____ lr_s 
+ho_e ____ ____ lr_w ____ ____ ____ ____ ____ ____ lr_n rr_n fl_e ____ ____ ____ ____ ____ fl_e ____ 
+Creature (hop east 3 0) takes action:
+Instruction 1: hop
+____ la_s ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ____ ____ ho_w ____ fo_n ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ ____ ____ ____ ____ ____ ho_w ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n ____ ____ ____ ____ ____ lr_s 
+____ ho_e ____ lr_w ____ ____ ____ ____ ____ ____ lr_n rr_n fl_e ____ ____ ____ ____ ____ fl_e ____ 
+Creature (rrover north 3 11) takes action:
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: right
+____ la_s ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ____ ____ ho_w ____ fo_n ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ ____ ____ ____ ____ ____ ho_w ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n ____ ____ ____ ____ ____ lr_s 
+____ ho_e ____ lr_w ____ ____ ____ ____ ____ ____ lr_n rr_e fl_e ____ ____ ____ ____ ____ fl_e ____ 
+Creature (lrover north 2 13) takes action:
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_s ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ____ ____ ho_w ____ fo_n ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ lr_n ____ ____ ____ ____ ho_w ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_s 
+____ ho_e ____ lr_w ____ ____ ____ ____ ____ ____ lr_n rr_e fl_e ____ ____ ____ ____ ____ fl_e ____ 
+Creature (flytrap east 3 12) takes action:
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ la_s ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ____ ____ ho_w ____ fo_n ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ lr_n ____ ____ ____ ____ ho_w ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_s 
+____ ho_e ____ lr_w ____ ____ ____ ____ ____ ____ lr_n rr_e fl_n ____ ____ ____ ____ ____ fl_e ____ 
+Creature (hop west 1 18) takes action:
+Instruction 1: hop
+____ la_s ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ____ ____ ho_w ____ fo_n ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ lr_n ____ ____ ____ ho_w ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_s 
+____ ho_e ____ lr_w ____ ____ ____ ____ ____ ____ lr_n rr_e fl_n ____ ____ ____ ____ ____ fl_e ____ 
+Creature (hop east 0 10) takes action:
+Instruction 1: hop
+____ la_s ____ ____ ____ al_e ho_e ____ ____ ____ ____ ho_e ____ ho_w ____ fo_n ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ lr_n ____ ____ ____ ho_w ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_s 
+____ ho_e ____ lr_w ____ ____ ____ ____ ____ ____ lr_n rr_e fl_n ____ ____ ____ ____ ____ fl_e ____ 
+Creature (lrover west 3 3) takes action:
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_s ____ ____ ____ al_e ho_e ____ ____ ____ ____ ho_e ____ ho_w ____ fo_n ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ lr_n ____ ____ ____ ho_w ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_s 
+____ ho_e lr_w ____ ____ ____ ____ ____ ____ ____ lr_n rr_e fl_n ____ ____ ____ ____ ____ fl_e ____ 
+Creature (landmine south 0 1) takes action:
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ la_s ____ ____ ____ al_e ho_e ____ ____ ____ ____ ho_e ____ ho_w ____ fo_n ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ lr_n ____ ____ ____ ho_w ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_s 
+____ ho_e lr_w ____ ____ ____ ____ ____ ____ ____ lr_n rr_e fl_n ____ ____ ____ ____ ____ fl_e ____ 
+Creature (hop west 0 13) takes action:
+Instruction 1: hop
+____ la_s ____ ____ ____ al_e ho_e ____ ____ ____ ____ ho_e ho_w ____ ____ fo_n ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ lr_n ____ ____ ____ ho_w ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_s 
+____ ho_e lr_w ____ ____ ____ ____ ____ ____ ____ lr_n rr_e fl_n ____ ____ ____ ____ ____ fl_e ____ 
+Creature (hop east 0 6) takes action:
+Instruction 1: hop
+____ la_s ____ ____ ____ al_e ____ ho_e ____ ____ ____ ho_e ho_w ____ ____ fo_n ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ lr_n ____ ____ ____ ho_w ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_s 
+____ ho_e lr_w ____ ____ ____ ____ ____ ____ ____ lr_n rr_e fl_n ____ ____ ____ ____ ____ fl_e ____ 
+Creature (landmine west 1 9) takes action:
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ la_s ____ ____ ____ al_e ____ ho_e ____ ____ ____ ho_e ho_w ____ ____ fo_n ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ lr_n ____ ____ ____ ho_w ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_s 
+____ ho_e lr_w ____ ____ ____ ____ ____ ____ ____ lr_n rr_e fl_n ____ ____ ____ ____ ____ fl_e ____ 
+Creature (lrover north 3 10) takes action:
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_s ____ ____ ____ al_e ____ ho_e ____ ____ ____ ho_e ho_w ____ ____ fo_n ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ lr_n ____ ____ ____ ho_w ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n ____ ____ ____ ____ ____ ____ ____ ____ lr_s 
+____ ho_e lr_w ____ ____ ____ ____ ____ ____ ____ ____ rr_e fl_n ____ ____ ____ ____ ____ fl_e ____ 
+Creature (alt_rover east 0 5) takes action:
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w ____ ____ fo_n ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ lr_n ____ ____ ____ ho_w ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n ____ ____ ____ ____ ____ ____ ____ ____ lr_s 
+____ ho_e lr_w ____ ____ ____ ____ ____ ____ ____ ____ rr_e fl_n ____ ____ ____ ____ ____ fl_e ____ 
+Round 2
+Creature (lrover south 2 19) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: left
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w ____ ____ fo_n ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ lr_n ____ ____ ____ ho_w ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n ____ ____ ____ ____ ____ ____ ____ ____ lr_e 
+____ ho_e lr_w ____ ____ ____ ____ ____ ____ ____ ____ rr_e fl_n ____ ____ ____ ____ ____ fl_e ____ 
+Creature (food north 0 15) takes action:
+Instruction 2: go 1
+Instruction 1: left
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w ____ ____ fo_w ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ lr_n ____ ____ ____ ho_w ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n ____ ____ ____ ____ ____ ____ ____ ____ lr_e 
+____ ho_e lr_w ____ ____ ____ ____ ____ ____ ____ ____ rr_e fl_n ____ ____ ____ ____ ____ fl_e ____ 
+Creature (flytrap east 3 18) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w ____ ____ fo_w ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ lr_n ____ ____ ____ ho_w ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n ____ ____ ____ ____ ____ ____ ____ ____ lr_e 
+____ ho_e lr_w ____ ____ ____ ____ ____ ____ ____ ____ rr_e fl_n ____ ____ ____ ____ ____ fl_n ____ 
+Creature (hop east 3 1) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w ____ ____ fo_w ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ lr_n ____ ____ ____ ho_w ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n ____ ____ ____ ____ ____ ____ ____ ____ lr_e 
+____ ho_e lr_w ____ ____ ____ ____ ____ ____ ____ ____ rr_e fl_n ____ ____ ____ ____ ____ fl_n ____ 
+Creature (rrover east 3 11) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 8: infect
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w ____ ____ fo_w ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ lr_n ____ ____ ____ ho_w ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n ____ ____ ____ ____ ____ ____ ____ ____ lr_e 
+____ ho_e lr_w ____ ____ ____ ____ ____ ____ ____ ____ rr_e rr_n ____ ____ ____ ____ ____ fl_n ____ 
+Creature (lrover north 1 13) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w lr_n ____ fo_w ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ ____ ____ ____ ____ ho_w ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n ____ ____ ____ ____ ____ ____ ____ ____ lr_e 
+____ ho_e lr_w ____ ____ ____ ____ ____ ____ ____ ____ rr_e rr_n ____ ____ ____ ____ ____ fl_n ____ 
+Creature (rrover north 3 12) takes action:
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w lr_n ____ fo_w ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ ____ ____ ____ ____ ho_w ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n ____ rr_n ____ ____ ____ ____ ____ ____ lr_e 
+____ ho_e lr_w ____ ____ ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (hop west 1 17) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w lr_n ____ fo_w ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ ____ ____ ____ ho_w ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n ____ rr_n ____ ____ ____ ____ ____ ____ lr_e 
+____ ho_e lr_w ____ ____ ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (hop east 0 11) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w lr_n ____ fo_w ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ ____ ____ ____ ho_w ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n ____ rr_n ____ ____ ____ ____ ____ ____ lr_e 
+____ ho_e lr_w ____ ____ ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (lrover west 3 2) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 8: infect
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w lr_n ____ fo_w ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ ____ ____ ____ ho_w ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n ____ rr_n ____ ____ ____ ____ ____ ____ lr_e 
+____ lr_e lr_w ____ ____ ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (landmine south 0 1) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w lr_n ____ fo_w ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ ____ ____ ____ ho_w ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n ____ rr_n ____ ____ ____ ____ ____ ____ lr_e 
+____ lr_e lr_w ____ ____ ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (hop east 0 7) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w lr_n ____ fo_w ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ ____ ____ ____ ho_w ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n ____ rr_n ____ ____ ____ ____ ____ ____ lr_e 
+____ lr_e lr_w ____ ____ ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (landmine west 1 9) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w lr_n ____ fo_w ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ ____ ____ ____ ____ ho_w ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n ____ rr_n ____ ____ ____ ____ ____ ____ lr_e 
+____ lr_e lr_w ____ ____ ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (lrover north 2 10) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w lr_n ____ fo_w ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w lr_n ____ ____ ____ ____ ____ ho_w ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ lr_e 
+____ lr_e lr_w ____ ____ ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (alt_rover east 0 6) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w lr_n ____ fo_w ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w lr_n ____ ____ ____ ____ ____ ho_w ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ lr_e 
+____ lr_e lr_w ____ ____ ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Round 3
+Creature (lrover east 2 19) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: left
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w lr_n ____ fo_w ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w lr_n ____ ____ ____ ____ ____ ho_w ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ lr_n 
+____ lr_e lr_w ____ ____ ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (food west 0 15) takes action:
+Instruction 2: go 1
+Instruction 1: left
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w lr_n ____ fo_s ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w lr_n ____ ____ ____ ____ ____ ho_w ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ lr_n 
+____ lr_e lr_w ____ ____ ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (flytrap north 3 18) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w lr_n ____ fo_s ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w lr_n ____ ____ ____ ____ ____ ho_w ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ lr_n 
+____ lr_e lr_w ____ ____ ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (lrover east 3 1) takes action:
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 6: left
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w lr_n ____ fo_s ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w lr_n ____ ____ ____ ____ ____ ho_w ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ lr_n 
+____ lr_n lr_w ____ ____ ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (rrover east 3 11) takes action:
+Instruction 9: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: right
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w lr_n ____ fo_s ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w lr_n ____ ____ ____ ____ ____ ho_w ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ lr_n 
+____ lr_n lr_w ____ ____ ____ ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (lrover north 0 13) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: left
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w lr_w ____ fo_s ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w lr_n ____ ____ ____ ____ ____ ho_w ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ lr_n 
+____ lr_n lr_w ____ ____ ____ ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (rrover north 2 12) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w lr_w ____ fo_s ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w lr_n ____ rr_n ____ ____ ____ ho_w ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n 
+____ lr_n lr_w ____ ____ ____ ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (hop west 1 16) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w lr_w ____ fo_s ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w lr_n ____ rr_n ____ ____ ho_w ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n 
+____ lr_n lr_w ____ ____ ____ ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (hop east 0 11) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w lr_w ____ fo_s ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w lr_n ____ rr_n ____ ____ ho_w ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n 
+____ lr_n lr_w ____ ____ ____ ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (lrover west 3 2) takes action:
+Instruction 9: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 6: left
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w lr_w ____ fo_s ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w lr_n ____ rr_n ____ ____ ho_w ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n 
+____ lr_n lr_s ____ ____ ____ ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (landmine south 0 1) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w lr_w ____ fo_s ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w lr_n ____ rr_n ____ ____ ho_w ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n 
+____ lr_n lr_s ____ ____ ____ ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (hop west 0 12) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w lr_w ____ fo_s ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w lr_n ____ rr_n ____ ____ ho_w ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n 
+____ lr_n lr_s ____ ____ ____ ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (hop east 0 7) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w lr_w ____ fo_s ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w lr_n ____ rr_n ____ ____ ho_w ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n 
+____ lr_n lr_s ____ ____ ____ ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (landmine west 1 9) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ ____ ho_e ho_w lr_w ____ fo_s ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w lr_n ____ rr_n ____ ____ ho_w ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n 
+____ lr_n lr_s ____ ____ ____ ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (lrover north 1 10) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_n ho_e ho_w lr_w ____ fo_s ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ____ ____ ho_w ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n 
+____ lr_n lr_s ____ ____ ____ ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (alt_rover east 0 6) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_n ho_e ho_w lr_w ____ fo_s ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ____ ____ ho_w ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ lr_n 
+____ lr_n lr_s ____ ____ ____ ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Round 4
+Creature (lrover north 2 19) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_n ho_e ho_w lr_w ____ fo_s ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ____ ____ ho_w ____ ____ ____ lr_n 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ lr_n lr_s ____ ____ ____ ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (food south 0 15) takes action:
+Instruction 2: go 1
+Instruction 1: left
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_n ho_e ho_w lr_w ____ fo_e ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ____ ____ ho_w ____ ____ ____ lr_n 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ lr_n lr_s ____ ____ ____ ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (flytrap west 3 18) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_n ho_e ho_w lr_w ____ fo_e ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ____ ____ ho_w ____ ____ ____ lr_n 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ lr_n lr_s ____ ____ ____ ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (lrover north 3 1) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_n ho_e ho_w lr_w ____ fo_e ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ____ ____ ho_w ____ ____ ____ lr_n 
+____ lr_n ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ lr_s ____ ____ ____ ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (rrover south 3 11) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: right
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_n ho_e ho_w lr_w ____ fo_e ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ____ ____ ho_w ____ ____ ____ lr_n 
+____ lr_n ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ lr_s ____ ____ ____ ____ ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (lrover west 0 13) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 8: infect
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_n ho_e lr_w lr_w ____ fo_e ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ____ ____ ho_w ____ ____ ____ lr_n 
+____ lr_n ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ lr_s ____ ____ ____ ____ ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (rrover north 1 12) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 8: infect
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_n ho_e rr_w lr_w ____ fo_e ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ____ ____ ho_w ____ ____ ____ lr_n 
+____ lr_n ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ lr_s ____ ____ ____ ____ ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (hop west 1 15) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_n ho_e rr_w lr_w ____ fo_e ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ____ ho_w ____ ____ ____ ____ lr_n 
+____ lr_n ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ lr_s ____ ____ ____ ____ ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (hop east 0 11) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_n ho_e rr_w lr_w ____ fo_e ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ____ ho_w ____ ____ ____ ____ lr_n 
+____ lr_n ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ lr_s ____ ____ ____ ____ ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (lrover south 3 2) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: left
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_n ho_e rr_w lr_w ____ fo_e ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ____ ho_w ____ ____ ____ ____ lr_n 
+____ lr_n ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (landmine south 0 1) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_n ho_e rr_w lr_w ____ fo_e ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ____ ho_w ____ ____ ____ ____ lr_n 
+____ lr_n ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (hop east 0 7) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_n ho_e rr_w lr_w ____ fo_e ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ____ ho_w ____ ____ ____ ____ lr_n 
+____ lr_n ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (landmine west 1 9) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_n ho_e rr_w lr_w ____ fo_e ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ____ ho_w ____ ____ ____ ____ lr_n 
+____ lr_n ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (lrover north 0 10) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: left
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_w ho_e rr_w lr_w ____ fo_e ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ____ ho_w ____ ____ ____ ____ lr_n 
+____ lr_n ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (alt_rover east 0 6) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_w ho_e rr_w lr_w ____ fo_e ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ____ ho_w ____ ____ ____ ____ lr_n 
+____ lr_n ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_s ____ 
+Round 5
+Creature (lrover north 1 19) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_w ho_e rr_w lr_w ____ fo_e ____ ____ ____ lr_n 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ____ ho_w ____ ____ ____ ____ ____ 
+____ lr_n ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (food east 0 15) takes action:
+Instruction 2: go 1
+Instruction 1: left
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_w ho_e rr_w lr_w ____ fo_n ____ ____ ____ lr_n 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ____ ho_w ____ ____ ____ ____ ____ 
+____ lr_n ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (flytrap south 3 18) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_w ho_e rr_w lr_w ____ fo_n ____ ____ ____ lr_n 
+____ ____ ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ____ ho_w ____ ____ ____ ____ ____ 
+____ lr_n ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (lrover north 2 1) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_w ho_e rr_w lr_w ____ fo_n ____ ____ ____ lr_n 
+____ lr_n ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ____ ho_w ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (rrover west 3 11) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: right
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_w ho_e rr_w lr_w ____ fo_n ____ ____ ____ lr_n 
+____ lr_n ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ____ ho_w ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (lrover west 0 13) takes action:
+Instruction 9: go 1
+Instruction 1: ifenemy 8
+Instruction 8: infect
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_w ho_e lr_w lr_w ____ fo_n ____ ____ ____ lr_n 
+____ lr_n ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ____ ho_w ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (rrover north 1 12) takes action:
+Instruction 9: go 1
+Instruction 1: ifenemy 8
+Instruction 8: infect
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_w ho_e rr_w lr_w ____ fo_n ____ ____ ____ lr_n 
+____ lr_n ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ____ ho_w ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (hop west 1 14) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_w ho_e rr_w lr_w ____ fo_n ____ ____ ____ lr_n 
+____ lr_n ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (hop east 0 11) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_w ho_e rr_w lr_w ____ fo_n ____ ____ ____ lr_n 
+____ lr_n ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (lrover east 3 2) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_w ho_e rr_w lr_w ____ fo_n ____ ____ ____ lr_n 
+____ lr_n ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (landmine south 0 1) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_w ho_e rr_w lr_w ____ fo_n ____ ____ ____ lr_n 
+____ la_n ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (rrover west 0 12) takes action:
+Instruction 1: ifenemy 8
+Instruction 8: infect
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_w rr_e rr_w lr_w ____ fo_n ____ ____ ____ lr_n 
+____ la_n ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (hop east 0 7) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_w rr_e rr_w lr_w ____ fo_n ____ ____ ____ lr_n 
+____ la_n ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (landmine west 1 9) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ la_s ____ ____ ____ ____ al_e ho_e ____ ____ lr_w rr_e rr_w lr_w ____ fo_n ____ ____ ____ lr_n 
+____ la_n ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (lrover west 0 10) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ lr_w ____ rr_e rr_w lr_w ____ fo_n ____ ____ ____ lr_n 
+____ la_n ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (alt_rover east 0 6) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ lr_w ____ rr_e rr_w lr_w ____ fo_n ____ ____ ____ lr_n 
+____ la_n ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Round 6
+Creature (lrover north 0 19) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: left
+____ la_s ____ ____ ____ ____ al_e ho_e ____ lr_w ____ rr_e rr_w lr_w ____ fo_n ____ ____ ____ lr_w 
+____ la_n ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (food north 0 15) takes action:
+Instruction 2: go 1
+Instruction 1: left
+____ la_s ____ ____ ____ ____ al_e ho_e ____ lr_w ____ rr_e rr_w lr_w ____ fo_w ____ ____ ____ lr_w 
+____ la_n ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (flytrap east 3 18) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ la_s ____ ____ ____ ____ al_e ho_e ____ lr_w ____ rr_e rr_w lr_w ____ fo_w ____ ____ ____ lr_w 
+____ la_n ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (landmine north 1 1) takes action:
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 5: left
+____ la_s ____ ____ ____ ____ al_e ho_e ____ lr_w ____ rr_e rr_w lr_w ____ fo_w ____ ____ ____ lr_w 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (rrover north 3 11) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: right
+____ la_s ____ ____ ____ ____ al_e ho_e ____ lr_w ____ rr_e rr_w lr_w ____ fo_w ____ ____ ____ lr_w 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (lrover west 0 13) takes action:
+Instruction 9: go 1
+Instruction 1: ifenemy 8
+Instruction 8: infect
+____ la_s ____ ____ ____ ____ al_e ho_e ____ lr_w ____ rr_e lr_w lr_w ____ fo_w ____ ____ ____ lr_w 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (rrover north 1 12) takes action:
+Instruction 9: go 1
+Instruction 1: ifenemy 8
+Instruction 8: infect
+____ la_s ____ ____ ____ ____ al_e ho_e ____ lr_w ____ rr_e rr_w lr_w ____ fo_w ____ ____ ____ lr_w 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (hop west 1 13) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ lr_w ____ rr_e rr_w lr_w ____ fo_w ____ ____ ____ lr_w 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (rrover east 0 11) takes action:
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 6: right
+____ la_s ____ ____ ____ ____ al_e ho_e ____ lr_w ____ rr_s rr_w lr_w ____ fo_w ____ ____ ____ lr_w 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (lrover east 3 3) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_s ____ ____ ____ ____ al_e ho_e ____ lr_w ____ rr_s rr_w lr_w ____ fo_w ____ ____ ____ lr_w 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (landmine south 0 1) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 5: left
+____ la_e ____ ____ ____ ____ al_e ho_e ____ lr_w ____ rr_s rr_w lr_w ____ fo_w ____ ____ ____ lr_w 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (hop east 0 7) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ la_e ____ ____ ____ ____ al_e ho_e ____ lr_w ____ rr_s rr_w lr_w ____ fo_w ____ ____ ____ lr_w 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (landmine west 1 9) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ la_e ____ ____ ____ ____ al_e ho_e ____ lr_w ____ rr_s rr_w lr_w ____ fo_w ____ ____ ____ lr_w 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (lrover west 0 9) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ ____ rr_s rr_w lr_w ____ fo_w ____ ____ ____ lr_w 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (alt_rover east 0 6) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ ____ rr_s rr_w lr_w ____ fo_w ____ ____ ____ lr_w 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Round 7
+Creature (lrover west 0 19) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ ____ rr_s rr_w lr_w ____ fo_w ____ ____ lr_w ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (food west 0 15) takes action:
+Instruction 2: go 1
+Instruction 1: left
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ ____ rr_s rr_w lr_w ____ fo_s ____ ____ lr_w ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (flytrap north 3 18) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ ____ rr_s rr_w lr_w ____ fo_s ____ ____ lr_w ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (landmine west 1 1) takes action:
+Instruction 6: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ ____ rr_s rr_w lr_w ____ fo_s ____ ____ lr_w ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (rrover east 3 11) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: right
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ ____ rr_s rr_w lr_w ____ fo_s ____ ____ lr_w ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (lrover west 0 13) takes action:
+Instruction 9: go 1
+Instruction 1: ifenemy 8
+Instruction 8: infect
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ ____ rr_s lr_w lr_w ____ fo_s ____ ____ lr_w ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (rrover north 1 12) takes action:
+Instruction 9: go 1
+Instruction 1: ifenemy 8
+Instruction 8: infect
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ ____ rr_s rr_w lr_w ____ fo_s ____ ____ lr_w ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (hop west 1 13) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ ____ rr_s rr_w lr_w ____ fo_s ____ ____ lr_w ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (rrover south 0 11) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: right
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ ____ rr_w rr_w lr_w ____ fo_s ____ ____ lr_w ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (lrover east 3 4) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ ____ rr_w rr_w lr_w ____ fo_s ____ ____ lr_w ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (landmine east 0 1) takes action:
+Instruction 6: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ ____ rr_w rr_w lr_w ____ fo_s ____ ____ lr_w ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (rrover west 0 12) takes action:
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 6: right
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ ____ rr_w rr_n lr_w ____ fo_s ____ ____ lr_w ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (hop east 0 7) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ ____ rr_w rr_n lr_w ____ fo_s ____ ____ lr_w ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (landmine west 1 9) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ ____ rr_w rr_n lr_w ____ fo_s ____ ____ lr_w ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (lrover west 0 8) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ ____ rr_w rr_n lr_w ____ fo_s ____ ____ lr_w ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (alt_rover east 0 6) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ ____ rr_w rr_n lr_w ____ fo_s ____ ____ lr_w ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Round 8
+Creature (lrover west 0 18) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ ____ rr_w rr_n lr_w ____ fo_s ____ lr_w ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (food south 0 15) takes action:
+Instruction 2: go 1
+Instruction 1: left
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ ____ rr_w rr_n lr_w ____ fo_e ____ lr_w ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_w ____ 
+Creature (flytrap west 3 18) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ ____ rr_w rr_n lr_w ____ fo_e ____ lr_w ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (landmine west 1 1) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ ____ rr_w rr_n lr_w ____ fo_e ____ lr_w ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ rr_s ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (rrover south 3 11) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: right
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ ____ rr_w rr_n lr_w ____ fo_e ____ lr_w ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (lrover west 0 13) takes action:
+Instruction 9: go 1
+Instruction 1: ifenemy 8
+Instruction 8: infect
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ ____ rr_w lr_n lr_w ____ fo_e ____ lr_w ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (rrover north 1 12) takes action:
+Instruction 9: go 1
+Instruction 1: ifenemy 8
+Instruction 8: infect
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ ____ rr_w rr_n lr_w ____ fo_e ____ lr_w ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (hop west 1 13) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ ____ rr_w rr_n lr_w ____ fo_e ____ lr_w ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (rrover west 0 11) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_w ____ rr_n lr_w ____ fo_e ____ lr_w ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (lrover east 3 5) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_w ____ rr_n lr_w ____ fo_e ____ lr_w ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (landmine east 0 1) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_w ____ rr_n lr_w ____ fo_e ____ lr_w ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (hop east 0 7) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_w ____ rr_n lr_w ____ fo_e ____ lr_w ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (landmine west 1 9) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_w ____ rr_n lr_w ____ fo_e ____ lr_w ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (lrover west 0 8) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_w ____ rr_n lr_w ____ fo_e ____ lr_w ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (alt_rover east 0 6) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_w ____ rr_n lr_w ____ fo_e ____ lr_w ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_s ____ 
+Round 9
+Creature (lrover west 0 17) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_w ____ rr_n lr_w ____ fo_e lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (food east 0 15) takes action:
+Instruction 2: go 1
+Instruction 1: left
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_w ____ rr_n lr_w ____ fo_n lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_s ____ 
+Creature (flytrap south 3 18) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_w ____ rr_n lr_w ____ fo_n lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (landmine west 1 1) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_w ____ rr_n lr_w ____ fo_n lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ rr_w ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (rrover west 3 11) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: right
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_w ____ rr_n lr_w ____ fo_n lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (lrover west 0 13) takes action:
+Instruction 9: go 1
+Instruction 1: ifenemy 8
+Instruction 8: infect
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_w ____ lr_n lr_w ____ fo_n lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (rrover north 1 12) takes action:
+Instruction 9: go 1
+Instruction 1: ifenemy 8
+Instruction 8: infect
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_w ____ rr_n lr_w ____ fo_n lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (hop west 1 13) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_w ____ rr_n lr_w ____ fo_n lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (rrover west 0 10) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: right
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_n ____ rr_n lr_w ____ fo_n lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (lrover east 3 6) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_n ____ rr_n lr_w ____ fo_n lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (landmine east 0 1) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_n ____ rr_n lr_w ____ fo_n lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (rrover north 0 12) takes action:
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: right
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_n ____ rr_e lr_w ____ fo_n lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (hop east 0 7) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_n ____ rr_e lr_w ____ fo_n lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (landmine west 1 9) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_n ____ rr_e lr_w ____ fo_n lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (lrover west 0 8) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_n ____ rr_e lr_w ____ fo_n lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (alt_rover east 0 6) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_n ____ rr_e lr_w ____ fo_n lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Round 10
+Creature (food north 0 15) takes action:
+Instruction 2: go 1
+Instruction 1: left
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_n ____ rr_e lr_w ____ fo_w lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_e ____ 
+Creature (flytrap east 3 18) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_n ____ rr_e lr_w ____ fo_w lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (landmine west 1 1) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_n ____ rr_e lr_w ____ fo_w lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ rr_n ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (rrover north 3 11) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: right
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_n ____ rr_e lr_w ____ fo_w lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (lrover west 0 13) takes action:
+Instruction 9: go 1
+Instruction 1: ifenemy 8
+Instruction 8: infect
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_n ____ lr_e lr_w ____ fo_w lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (rrover north 1 12) takes action:
+Instruction 9: go 1
+Instruction 1: ifenemy 8
+Instruction 8: infect
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_n ____ rr_e lr_w ____ fo_w lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (hop west 1 13) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_n ____ rr_e lr_w ____ fo_w lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (rrover north 0 10) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: right
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_e ____ rr_e lr_w ____ fo_w lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ lr_e ____ ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (lrover east 3 7) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_e ____ rr_e lr_w ____ fo_w lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ lr_e ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (landmine east 0 1) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_e ____ rr_e lr_w ____ fo_w lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ lr_e ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (hop east 0 7) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_e ____ rr_e lr_w ____ fo_w lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ lr_e ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (landmine west 1 9) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_e ____ rr_e lr_w ____ fo_w lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ lr_e ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (lrover west 0 8) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_e ____ rr_e lr_w ____ fo_w lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ lr_e ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 
+Creature (alt_rover east 0 6) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ la_e ____ ____ ____ ____ al_e ho_e lr_w ____ rr_e ____ rr_e lr_w ____ fo_w lr_w ____ ____ ____ 
+____ la_w ____ ____ ____ ____ ____ ____ ____ la_w ____ ____ rr_n ho_w ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+____ ____ ____ ____ ____ ____ ____ ____ lr_e ____ ____ rr_e ____ ____ ____ ____ ____ ____ fl_n ____ 

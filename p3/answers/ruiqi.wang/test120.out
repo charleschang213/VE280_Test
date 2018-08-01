@@ -1,0 +1,215 @@
+Initial state
+____ ____ ____ ____ ____ ____ ____ 
+____ fl_w al_n ____ fo_n ____ ____ 
+la_e ____ ____ ____ ____ ____ ____ 
+fo_n ____ ____ ____ ____ ____ fl_w 
+Round 1
+Creature (landmine east 2 0) takes action: left
+Creature (flytrap west 1 1) takes action: left
+Creature (food north 3 0) takes action: left
+Creature (alt_rover north 1 2) takes action: hop
+Creature (flytrap west 3 6) takes action: left
+____ ____ al_n ____ ____ ____ ____ 
+____ fl_s ____ ____ fo_n ____ ____ 
+la_n ____ ____ ____ ____ ____ ____ 
+fo_w ____ ____ ____ ____ ____ fl_s 
+Round 2
+Creature (food north 1 4) takes action: left
+Creature (landmine north 2 0) takes action: left
+Creature (flytrap south 1 1) takes action: left
+Creature (food west 3 0) takes action: left
+Creature (alt_rover north 0 2) takes action: left
+Creature (flytrap south 3 6) takes action: left
+____ ____ al_w ____ ____ ____ ____ 
+____ fl_e ____ ____ fo_w ____ ____ 
+la_w ____ ____ ____ ____ ____ ____ 
+fo_s ____ ____ ____ ____ ____ fl_e 
+Round 3
+Creature (landmine west 2 0) takes action: left
+Creature (flytrap east 1 1) takes action: left
+Creature (food south 3 0) takes action: left
+Creature (alt_rover west 0 2) takes action: right
+Creature (flytrap east 3 6) takes action: left
+____ ____ al_n ____ ____ ____ ____ 
+____ fl_n ____ ____ fo_w ____ ____ 
+la_s ____ ____ ____ ____ ____ ____ 
+fo_e ____ ____ ____ ____ ____ fl_n 
+Round 4
+Creature (food west 1 4) takes action: left
+Creature (landmine south 2 0) takes action: infect
+Creature (flytrap north 1 1) takes action: left
+Creature (landmine east 3 0) takes action: infect
+Creature (alt_rover north 0 2) takes action: left
+Creature (landmine north 3 6) takes action: infect
+____ ____ al_w ____ ____ ____ ____ 
+____ fl_w ____ ____ fo_s ____ ____ 
+la_s ____ ____ ____ ____ ____ ____ 
+la_e ____ ____ ____ ____ ____ la_n 
+Round 5
+Creature (landmine south 2 0) takes action: left
+Creature (flytrap west 1 1) takes action: left
+Creature (landmine east 3 0) takes action: infect
+Creature (alt_rover west 0 2) takes action: right
+Creature (landmine north 3 6) takes action: infect
+____ ____ al_n ____ ____ ____ ____ 
+____ fl_s ____ ____ fo_s ____ ____ 
+la_e ____ ____ ____ ____ ____ ____ 
+la_e ____ ____ ____ ____ ____ la_n 
+Round 6
+Creature (food south 1 4) takes action: left
+Creature (landmine east 2 0) takes action: left
+Creature (flytrap south 1 1) takes action: left
+Creature (landmine east 3 0) takes action: infect
+Creature (alt_rover north 0 2) takes action: left
+Creature (landmine north 3 6) takes action: infect
+____ ____ al_w ____ ____ ____ ____ 
+____ fl_e ____ ____ fo_e ____ ____ 
+la_n ____ ____ ____ ____ ____ ____ 
+la_e ____ ____ ____ ____ ____ la_n 
+Round 7
+Creature (landmine north 2 0) takes action: left
+Creature (flytrap east 1 1) takes action: left
+Creature (landmine east 3 0) takes action: infect
+Creature (alt_rover west 0 2) takes action: right
+Creature (landmine north 3 6) takes action: infect
+____ ____ al_n ____ ____ ____ ____ 
+____ fl_n ____ ____ fo_e ____ ____ 
+la_w ____ ____ ____ ____ ____ ____ 
+la_e ____ ____ ____ ____ ____ la_n 
+Round 8
+Creature (food east 1 4) takes action: left
+Creature (landmine west 2 0) takes action: left
+Creature (flytrap north 1 1) takes action: left
+Creature (landmine east 3 0) takes action: infect
+Creature (alt_rover north 0 2) takes action: left
+Creature (landmine north 3 6) takes action: infect
+____ ____ al_w ____ ____ ____ ____ 
+____ fl_w ____ ____ fo_n ____ ____ 
+la_s ____ ____ ____ ____ ____ ____ 
+la_e ____ ____ ____ ____ ____ la_n 
+Round 9
+Creature (landmine south 2 0) takes action: left
+Creature (flytrap west 1 1) takes action: left
+Creature (landmine east 3 0) takes action: infect
+Creature (alt_rover west 0 2) takes action: right
+Creature (landmine north 3 6) takes action: infect
+____ ____ al_n ____ ____ ____ ____ 
+____ fl_s ____ ____ fo_n ____ ____ 
+la_e ____ ____ ____ ____ ____ ____ 
+la_e ____ ____ ____ ____ ____ la_n 
+Round 10
+Creature (food north 1 4) takes action: left
+Creature (landmine east 2 0) takes action: left
+Creature (flytrap south 1 1) takes action: left
+Creature (landmine east 3 0) takes action: infect
+Creature (alt_rover north 0 2) takes action: left
+Creature (landmine north 3 6) takes action: infect
+____ ____ al_w ____ ____ ____ ____ 
+____ fl_e ____ ____ fo_w ____ ____ 
+la_n ____ ____ ____ ____ ____ ____ 
+la_e ____ ____ ____ ____ ____ la_n 
+Round 11
+Creature (landmine north 2 0) takes action: left
+Creature (flytrap east 1 1) takes action: left
+Creature (landmine east 3 0) takes action: infect
+Creature (alt_rover west 0 2) takes action: right
+Creature (landmine north 3 6) takes action: infect
+____ ____ al_n ____ ____ ____ ____ 
+____ fl_n ____ ____ fo_w ____ ____ 
+la_w ____ ____ ____ ____ ____ ____ 
+la_e ____ ____ ____ ____ ____ la_n 
+Round 12
+Creature (food west 1 4) takes action: left
+Creature (landmine west 2 0) takes action: left
+Creature (flytrap north 1 1) takes action: left
+Creature (landmine east 3 0) takes action: infect
+Creature (alt_rover north 0 2) takes action: left
+Creature (landmine north 3 6) takes action: infect
+____ ____ al_w ____ ____ ____ ____ 
+____ fl_w ____ ____ fo_s ____ ____ 
+la_s ____ ____ ____ ____ ____ ____ 
+la_e ____ ____ ____ ____ ____ la_n 
+Round 13
+Creature (landmine south 2 0) takes action: left
+Creature (flytrap west 1 1) takes action: left
+Creature (landmine east 3 0) takes action: infect
+Creature (alt_rover west 0 2) takes action: right
+Creature (landmine north 3 6) takes action: infect
+____ ____ al_n ____ ____ ____ ____ 
+____ fl_s ____ ____ fo_s ____ ____ 
+la_e ____ ____ ____ ____ ____ ____ 
+la_e ____ ____ ____ ____ ____ la_n 
+Round 14
+Creature (food south 1 4) takes action: left
+Creature (landmine east 2 0) takes action: left
+Creature (flytrap south 1 1) takes action: left
+Creature (landmine east 3 0) takes action: infect
+Creature (alt_rover north 0 2) takes action: left
+Creature (landmine north 3 6) takes action: infect
+____ ____ al_w ____ ____ ____ ____ 
+____ fl_e ____ ____ fo_e ____ ____ 
+la_n ____ ____ ____ ____ ____ ____ 
+la_e ____ ____ ____ ____ ____ la_n 
+Round 15
+Creature (landmine north 2 0) takes action: left
+Creature (flytrap east 1 1) takes action: left
+Creature (landmine east 3 0) takes action: infect
+Creature (alt_rover west 0 2) takes action: right
+Creature (landmine north 3 6) takes action: infect
+____ ____ al_n ____ ____ ____ ____ 
+____ fl_n ____ ____ fo_e ____ ____ 
+la_w ____ ____ ____ ____ ____ ____ 
+la_e ____ ____ ____ ____ ____ la_n 
+Round 16
+Creature (food east 1 4) takes action: left
+Creature (landmine west 2 0) takes action: left
+Creature (flytrap north 1 1) takes action: left
+Creature (landmine east 3 0) takes action: infect
+Creature (alt_rover north 0 2) takes action: left
+Creature (landmine north 3 6) takes action: infect
+____ ____ al_w ____ ____ ____ ____ 
+____ fl_w ____ ____ fo_n ____ ____ 
+la_s ____ ____ ____ ____ ____ ____ 
+la_e ____ ____ ____ ____ ____ la_n 
+Round 17
+Creature (landmine south 2 0) takes action: left
+Creature (flytrap west 1 1) takes action: left
+Creature (landmine east 3 0) takes action: infect
+Creature (alt_rover west 0 2) takes action: right
+Creature (landmine north 3 6) takes action: infect
+____ ____ al_n ____ ____ ____ ____ 
+____ fl_s ____ ____ fo_n ____ ____ 
+la_e ____ ____ ____ ____ ____ ____ 
+la_e ____ ____ ____ ____ ____ la_n 
+Round 18
+Creature (food north 1 4) takes action: left
+Creature (landmine east 2 0) takes action: left
+Creature (flytrap south 1 1) takes action: left
+Creature (landmine east 3 0) takes action: infect
+Creature (alt_rover north 0 2) takes action: left
+Creature (landmine north 3 6) takes action: infect
+____ ____ al_w ____ ____ ____ ____ 
+____ fl_e ____ ____ fo_w ____ ____ 
+la_n ____ ____ ____ ____ ____ ____ 
+la_e ____ ____ ____ ____ ____ la_n 
+Round 19
+Creature (landmine north 2 0) takes action: left
+Creature (flytrap east 1 1) takes action: left
+Creature (landmine east 3 0) takes action: infect
+Creature (alt_rover west 0 2) takes action: right
+Creature (landmine north 3 6) takes action: infect
+____ ____ al_n ____ ____ ____ ____ 
+____ fl_n ____ ____ fo_w ____ ____ 
+la_w ____ ____ ____ ____ ____ ____ 
+la_e ____ ____ ____ ____ ____ la_n 
+Round 20
+Creature (food west 1 4) takes action: left
+Creature (landmine west 2 0) takes action: left
+Creature (flytrap north 1 1) takes action: left
+Creature (landmine east 3 0) takes action: infect
+Creature (alt_rover north 0 2) takes action: left
+Creature (landmine north 3 6) takes action: infect
+____ ____ al_w ____ ____ ____ ____ 
+____ fl_w ____ ____ fo_s ____ ____ 
+la_s ____ ____ ____ ____ ____ ____ 
+la_e ____ ____ ____ ____ ____ la_n 

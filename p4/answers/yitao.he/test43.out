@@ -1,0 +1,55 @@
+# Shuffling the deck
+cut at 24
+cut at 15
+# Hand 1 bankroll 12
+# Player bets 10
+Player dealt Nine of Spades
+Dealer dealt King of Hearts
+Player dealt Eight of Clubs
+Player's total is 17
+Dealer's hole card is Two of Spades
+Dealer dealt Ten of Spades
+Dealer's total is 22
+# Dealer busts
+# Hand 2 bankroll 22
+# Player bets 10
+Player dealt Ace of Hearts
+Dealer dealt Nine of Clubs
+Player dealt Three of Spades
+Player dealt Two of Clubs
+Player dealt Ten of Clubs
+Player dealt Four of Spades
+Player's total is 20
+Dealer's hole card is Jack of Spades
+Dealer's total is 19
+# Player wins
+# Hand 3 bankroll 32
+# Player bets 10
+Player dealt Queen of Spades
+Dealer dealt Three of Clubs
+Player dealt Jack of Clubs
+Player's total is 20
+Dealer's hole card is Five of Spades
+Dealer dealt King of Spades
+Dealer's total is 18
+# Player wins
+# Hand 4 bankroll 42
+# Player bets 10
+Player dealt Four of Clubs
+Dealer dealt Queen of Clubs
+Player dealt Six of Spades
+Player dealt Five of Clubs
+Player dealt King of Clubs
+Player's total is 25
+# Player busts
+# Hand 5 bankroll 32
+# Player bets 10
+Player dealt Seven of Spades
+Dealer dealt Two of Hearts
+Player dealt Six of Clubs
+Player's total is 13
+Dealer's hole card is Ace of Clubs
+Dealer dealt Eight of Spades
+Dealer's total is 21
+# Dealer wins
+# Player has 22 after 5 hands

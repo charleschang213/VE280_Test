@@ -1,0 +1,32 @@
+# Shuffling the deck
+cut at 29
+cut at 34
+# Hand 1 bankroll 75
+# Player bets 20
+Player dealt Nine of Diamonds
+Dealer dealt Five of Clubs
+Player dealt Six of Hearts
+Player's total is 15
+Dealer's hole card is Two of Spades
+Dealer dealt Ten of Diamonds
+Dealer's total is 17
+# Dealer wins
+# Hand 2 bankroll 55
+# Player bets 20
+Player dealt Six of Clubs
+Dealer dealt Seven of Hearts
+Player dealt Three of Spades
+Player dealt Seven of Clubs
+Player dealt Eight of Hearts
+# Player busts
+# Hand 3 bankroll 35
+# Player bets 20
+Player dealt Four of Spades
+Dealer dealt Queen of Diamonds
+Player dealt Eight of Clubs
+Player dealt Five of Spades
+Player's total is 17
+Dealer's hole card is Nine of Hearts
+Dealer's total is 19
+# Dealer wins
+# Player has 15 after 3 hands

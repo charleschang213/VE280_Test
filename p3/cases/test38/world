@@ -1,0 +1,19 @@
+5
+13
+PLFLFFPPLFLHL
+FLHHLPPPLLPLP
+FLFPLHHPHLHFH
+HHHLHLLLHFLFL
+LFHPFFFLPHPPL
+food north 4 3
+hop south 4 4 a
+hop south 4 10
+landmine west 0 7 a
+lrover east 1 1 f
+alt_rover west 2 5
+flytrap east 4 6 f
+rrover east 3 2
+food south 1 3 f
+alt_rover south 3 5 f
+food east 2 9 f
+food north 0 10 f

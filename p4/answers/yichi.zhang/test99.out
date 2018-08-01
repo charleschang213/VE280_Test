@@ -1,0 +1,104 @@
+# Shuffling the deck
+cut at 17
+cut at 19
+cut at 13
+cut at 37
+cut at 30
+# Hand 1 bankroll 57
+# Player bets 8
+Player dealt Three of Spades
+Dealer dealt Two of Clubs
+Player dealt Jack of Hearts
+Player's total is 13
+Dealer's hole card is Nine of Hearts
+Dealer dealt King of Spades
+Dealer's total is 21
+# Dealer wins
+# Hand 2 bankroll 49
+# Player bets 8
+Player dealt Ace of Clubs
+Dealer dealt Eight of Clubs
+Player dealt Jack of Spades
+# Player dealt natural 21
+# Hand 3 bankroll 61
+# Player bets 8
+Player dealt Two of Diamonds
+Dealer dealt Seven of Spades
+Player dealt Six of Clubs
+Player dealt Three of Diamonds
+Player dealt Four of Hearts
+Player dealt Six of Hearts
+Player's total is 21
+Dealer's hole card is Five of Clubs
+Dealer dealt Four of Spades
+Dealer dealt Four of Diamonds
+Dealer's total is 20
+# Player wins
+# Hand 4 bankroll 69
+# Player bets 8
+Player dealt Queen of Hearts
+Dealer dealt Five of Spades
+Player dealt Ace of Spades
+# Player dealt natural 21
+# Hand 5 bankroll 81
+# Player bets 8
+Player dealt Nine of Clubs
+Dealer dealt Three of Clubs
+Player dealt Eight of Spades
+Player's total is 17
+Dealer's hole card is Six of Diamonds
+Dealer dealt Five of Hearts
+Dealer dealt Two of Hearts
+Dealer dealt King of Hearts
+Dealer's total is 26
+# Dealer busts
+# Hand 6 bankroll 89
+# Player bets 8
+Player dealt Seven of Diamonds
+Dealer dealt Ten of Clubs
+Player dealt Two of Spades
+Player dealt Eight of Diamonds
+Player's total is 17
+Dealer's hole card is Nine of Spades
+Dealer's total is 19
+# Dealer wins
+# Hand 7 bankroll 81
+# Shuffling the deck
+cut at 39
+cut at 22
+cut at 33
+cut at 37
+cut at 38
+cut at 37
+cut at 38
+# Player bets 8
+Player dealt Six of Clubs
+Dealer dealt Ten of Spades
+Player dealt Seven of Clubs
+Player dealt Five of Diamonds
+Player's total is 18
+Dealer's hole card is Jack of Hearts
+Dealer's total is 20
+# Dealer wins
+# Hand 8 bankroll 73
+# Player bets 8
+Player dealt Eight of Spades
+Dealer dealt Queen of Clubs
+Player dealt Queen of Hearts
+Player's total is 18
+Dealer's hole card is Two of Hearts
+Dealer dealt Two of Diamonds
+Dealer dealt Seven of Hearts
+Dealer's total is 21
+# Dealer wins
+# Hand 9 bankroll 65
+# Player bets 8
+Player dealt Nine of Spades
+Dealer dealt Three of Spades
+Player dealt Jack of Spades
+Player's total is 19
+Dealer's hole card is Nine of Clubs
+Dealer dealt Six of Spades
+Dealer's total is 18
+# Player wins
+# Player has 73 after 9 hands

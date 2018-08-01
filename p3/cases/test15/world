@@ -1,0 +1,31 @@
+18
+3
+HPH
+PPL
+LFF
+PLP
+FPL
+LLH
+PFF
+LHL
+PHL
+FPL
+LPF
+PPF
+PPP
+LFP
+PLP
+PPF
+HHP
+FFP
+rrover west 8 2 f
+food west 2 0 f
+lrover north 5 1 f
+food south 1 0
+food north 13 2
+hop south 15 0
+flytrap east 14 1 f
+hop south 10 2
+lrover south 17 1
+rrover north 2 2
+food east 12 0

@@ -1,0 +1,112 @@
+# Shuffling the deck
+cut at 28
+cut at 38
+cut at 28
+cut at 13
+cut at 16
+cut at 36
+cut at 26
+cut at 35
+# Hand 1 bankroll 70
+# Player bets 16
+Player dealt Four of Spades
+Dealer dealt Ten of Clubs
+Player dealt Three of Hearts
+Player dealt Ace of Hearts
+Player dealt Two of Diamonds
+Player's total is 20
+Dealer's hole card is Seven of Diamonds
+Dealer's total is 17
+# Player wins
+# Hand 2 bankroll 86
+# Player bets 16
+Player dealt Three of Diamonds
+Dealer dealt Ten of Hearts
+Player dealt Three of Spades
+Player dealt Five of Spades
+Player dealt Queen of Hearts
+Player's total is 21
+Dealer's hole card is Three of Clubs
+Dealer dealt Seven of Hearts
+Dealer's total is 20
+# Player wins
+# Hand 3 bankroll 102
+# Player bets 32
+Player dealt Five of Clubs
+Dealer dealt Two of Spades
+Player dealt Nine of Hearts
+Player's total is 14
+Dealer's hole card is Jack of Spades
+Dealer dealt Eight of Spades
+Dealer's total is 20
+# Dealer wins
+# Hand 4 bankroll 70
+# Player bets 32
+Player dealt Six of Diamonds
+Dealer dealt Five of Hearts
+Player dealt Seven of Spades
+Player's total is 13
+Dealer's hole card is Four of Clubs
+Dealer dealt Ace of Diamonds
+Dealer's total is 20
+# Dealer wins
+# Hand 5 bankroll 38
+# Player bets 32
+Player dealt King of Clubs
+Dealer dealt Nine of Spades
+Player dealt King of Diamonds
+Player's total is 20
+Dealer's hole card is Four of Hearts
+Dealer dealt Six of Spades
+Dealer's total is 19
+# Player wins
+# Hand 6 bankroll 70
+# Player bets 32
+Player dealt Two of Clubs
+Dealer dealt Queen of Diamonds
+Player dealt Eight of Clubs
+Player dealt Four of Diamonds
+Player dealt Ace of Clubs
+Player dealt Eight of Diamonds
+Player's total is 23
+# Player busts
+# Hand 7 bankroll 38
+# Shuffling the deck
+cut at 39
+cut at 22
+cut at 33
+cut at 37
+cut at 38
+cut at 37
+cut at 38
+# Player bets 16
+Player dealt Queen of Hearts
+Dealer dealt Queen of Spades
+Player dealt Eight of Hearts
+Player's total is 18
+Dealer's hole card is Three of Hearts
+Dealer dealt Four of Clubs
+Dealer's total is 17
+# Player wins
+# Hand 8 bankroll 54
+# Player bets 16
+Player dealt Nine of Spades
+Dealer dealt King of Hearts
+Player dealt Six of Diamonds
+Player dealt Three of Clubs
+Player's total is 18
+Dealer's hole card is Six of Spades
+Dealer dealt Five of Diamonds
+Dealer's total is 21
+# Dealer wins
+# Hand 9 bankroll 38
+# Player bets 32
+Player dealt Four of Diamonds
+Dealer dealt Four of Spades
+Player dealt Ten of Hearts
+Player's total is 14
+Dealer's hole card is Ace of Diamonds
+Dealer dealt Six of Clubs
+Dealer's total is 21
+# Dealer wins
+# Player has 6 after 9 hands

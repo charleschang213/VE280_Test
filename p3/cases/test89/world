@@ -1,0 +1,14 @@
+6
+10
+HPFPPPFPPP
+PPFPPLPPPP
+LFLPPPPFLP
+PLPPHFPFLP
+PPPFPPPFPP
+HPPFPPHPPF
+food east 5 4 
+food north 2 1 a 
+lrover west 2 2 f 
+alt_rover west 0 8 a 
+alt_rover east 2 7 f 
+rrover east 3 7 a 

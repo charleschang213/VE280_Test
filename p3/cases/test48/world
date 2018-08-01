@@ -1,0 +1,13 @@
+3
+4
+PHLL
+FHHP
+FPHP
+flytrap north 1 2
+hop west 2 3
+food south 2 0
+food west 0 1
+lrover west 0 3 a f a
+alt_rover north 1 1 a kt
+hop north 2 2
+landmine south 1 3 a

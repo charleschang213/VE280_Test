@@ -1,0 +1,55 @@
+18
+4
+HPLP
+FFLH
+FPPF
+HHLF
+LPFP
+FFFL
+PLFL
+FLPP
+HPPH
+HHLH
+PLFL
+FHPL
+HHHH
+FFLF
+HFFH
+LPLH
+FLHL
+FPFP
+lrover south 5 2 f
+lrover south 5 1 f
+lrover north 17 3
+food south 4 3
+rrover south 12 1
+food west 12 3
+lrover west 16 1 f
+rrover west 3 1 f
+hop north 6 1 f
+alt_rover east 8 3
+hop west 6 0
+food east 13 3
+food west 9 1
+lrover east 10 3 f
+food north 16 0 f
+alt_rover north 12 2
+alt_rover north 1 0
+food north 14 2
+lrover north 1 3 a
+landmine north 7 0
+landmine north 14 1
+hop west 13 1 a f
+rrover west 4 0 a f
+food west 11 2
+food north 4 2
+alt_rover west 8 0
+landmine south 16 3 f
+rrover east 8 1
+hop south 6 3 f
+lrover south 14 0 a
+alt_rover east 2 2
+lrover north 7 2
+hop west 2 1
+lrover west 3 3 a
+hop west 10 2

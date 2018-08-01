@@ -1,0 +1,234 @@
+Initial state
+pa_w ____ ____ ____ ____ 
+pa_e fo_e lr_s ho_w ____ 
+Round 1
+Creature (path_finder west 0 0) takes action:
+Instruction 1: ifempty 4
+Instruction 2: left
+pa_s ____ ____ ____ ____ 
+pa_e fo_e lr_s ho_w ____ 
+Creature (lrover south 1 2) takes action:
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 6: left
+pa_s ____ ____ ____ ____ 
+pa_e fo_e lr_e ho_w ____ 
+Creature (hop west 1 3) takes action:
+Instruction 1: hop
+pa_s ____ ____ ____ ____ 
+pa_e fo_e lr_e ho_w ____ 
+Round 2
+Creature (path_finder south 0 0) takes action:
+Instruction 3: go 1
+Instruction 1: ifempty 4
+Instruction 2: left
+pa_e ____ ____ ____ ____ 
+pa_e fo_e lr_e ho_w ____ 
+Creature (lrover east 1 2) takes action:
+Instruction 7: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+pa_e ____ ____ ____ ____ 
+pa_e fo_e lr_e ho_w ____ 
+Creature (path_finder east 1 0) takes action:
+Instruction 1: ifempty 4
+Instruction 2: left
+pa_e ____ ____ ____ ____ 
+pa_n fo_e lr_e ho_w ____ 
+Creature (hop west 1 3) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+pa_e ____ ____ ____ ____ 
+pa_n fo_e lr_e ho_w ____ 
+Creature (food east 1 1) takes action:
+Instruction 1: left
+pa_e ____ ____ ____ ____ 
+pa_n fo_n lr_e ho_w ____ 
+Round 3
+Creature (path_finder east 0 0) takes action:
+Instruction 3: go 1
+Instruction 1: ifempty 4
+Instruction 4: hop
+____ pa_e ____ ____ ____ 
+pa_n fo_n lr_e ho_w ____ 
+Creature (lrover east 1 2) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ pa_e ____ ____ ____ 
+pa_n fo_n lr_e ho_w ____ 
+Creature (hop west 1 3) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ pa_e ____ ____ ____ 
+pa_n fo_n lr_e ho_w ____ 
+Round 4
+Creature (lrover east 1 2) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ pa_e ____ ____ ____ 
+pa_n fo_n lr_e ho_w ____ 
+Creature (path_finder north 1 0) takes action:
+Instruction 3: go 1
+Instruction 1: ifempty 4
+Instruction 4: hop
+pa_n pa_e ____ ____ ____ 
+____ fo_n lr_e ho_w ____ 
+Creature (hop west 1 3) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+pa_n pa_e ____ ____ ____ 
+____ fo_n lr_e ho_w ____ 
+Creature (food north 1 1) takes action:
+Instruction 2: go 1
+Instruction 1: left
+pa_n pa_e ____ ____ ____ 
+____ fo_w lr_e ho_w ____ 
+Round 5
+Creature (path_finder east 0 1) takes action:
+Instruction 5: go 1
+Instruction 1: ifempty 4
+Instruction 4: hop
+pa_n ____ pa_e ____ ____ 
+____ fo_w lr_e ho_w ____ 
+Creature (lrover east 1 2) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+pa_n ____ pa_e ____ ____ 
+____ fo_w lr_e ho_w ____ 
+Creature (path_finder north 0 0) takes action:
+Instruction 5: go 1
+Instruction 1: ifempty 4
+Instruction 2: left
+pa_w ____ pa_e ____ ____ 
+____ fo_w lr_e ho_w ____ 
+Creature (hop west 1 3) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+pa_w ____ pa_e ____ ____ 
+____ fo_w lr_e ho_w ____ 
+Round 6
+Creature (lrover east 1 2) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+pa_w ____ pa_e ____ ____ 
+____ fo_w lr_e ho_w ____ 
+Creature (path_finder west 0 0) takes action:
+Instruction 3: go 1
+Instruction 1: ifempty 4
+Instruction 2: left
+pa_s ____ pa_e ____ ____ 
+____ fo_w lr_e ho_w ____ 
+Creature (hop west 1 3) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+pa_s ____ pa_e ____ ____ 
+____ fo_w lr_e ho_w ____ 
+Creature (food west 1 1) takes action:
+Instruction 2: go 1
+Instruction 1: left
+pa_s ____ pa_e ____ ____ 
+____ fo_s lr_e ho_w ____ 
+Round 7
+Creature (path_finder east 0 2) takes action:
+Instruction 5: go 1
+Instruction 1: ifempty 4
+Instruction 4: hop
+pa_s ____ pa_e ____ ____ 
+____ fo_s lr_e ho_w ____ 
+Creature (lrover east 1 2) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+pa_s ____ pa_e ____ ____ 
+____ fo_s lr_e ho_w ____ 
+Creature (path_finder south 0 0) takes action:
+Instruction 3: go 1
+Instruction 1: ifempty 4
+Instruction 4: hop
+____ ____ pa_e ____ ____ 
+pa_s fo_s lr_e ho_w ____ 
+Creature (hop west 1 3) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ ____ pa_e ____ ____ 
+pa_s fo_s lr_e ho_w ____ 
+Round 8
+Creature (lrover east 1 2) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ ____ pa_e ____ ____ 
+pa_s fo_s lr_e ho_w ____ 
+Creature (hop west 1 3) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ ____ pa_e ____ ____ 
+pa_s fo_s lr_e ho_w ____ 
+Creature (food south 1 1) takes action:
+Instruction 2: go 1
+Instruction 1: left
+____ ____ pa_e ____ ____ 
+pa_s fo_e lr_e ho_w ____ 
+Round 9
+Creature (path_finder east 0 2) takes action:
+Instruction 5: go 1
+Instruction 1: ifempty 4
+Instruction 4: hop
+____ ____ pa_e ____ ____ 
+pa_s fo_e lr_e ho_w ____ 
+Creature (lrover east 1 2) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ ____ pa_e ____ ____ 
+pa_s fo_e lr_e ho_w ____ 
+Creature (path_finder south 1 0) takes action:
+Instruction 5: go 1
+Instruction 1: ifempty 4
+Instruction 2: left
+____ ____ pa_e ____ ____ 
+pa_e fo_e lr_e ho_w ____ 
+Creature (hop west 1 3) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ ____ pa_e ____ ____ 
+pa_e fo_e lr_e ho_w ____ 
+Round 10
+Creature (lrover east 1 2) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 8
+Instruction 2: ifwall 6
+Instruction 3: ifsame 6
+Instruction 4: hop
+____ ____ pa_e ____ ____ 
+pa_e fo_e lr_e ho_w ____ 
+Creature (hop west 1 3) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ ____ pa_e ____ ____ 
+pa_e fo_e lr_e ho_w ____ 
+Creature (food east 1 1) takes action:
+Instruction 2: go 1
+Instruction 1: left
+____ ____ pa_e ____ ____ 
+pa_e fo_n lr_e ho_w ____ 

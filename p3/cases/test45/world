@@ -1,0 +1,46 @@
+14
+17
+FHFFPFHHFPPFHHPLL
+PHHPLFFLLFHHPPPFF
+HPPLFHPPFHHHLHHLP
+FLFHHFPLFHHPPPFFF
+PPHFLPPLHPPHLLFLH
+FHLFPLFHPLPFLFFHP
+LPLHHLLLPFHLPHPPP
+FLHFPLFLLPLFHHHHL
+FPFLLHFLFPPPFPHHF
+FPHPPLFPFLHHFHHFH
+HPHPPPHPLHLPFPLHP
+PFLFFHHFHHLPHPPFL
+HPLFPLFLFFPLLHLFP
+FLLHLHFHHFHPLPLLH
+flytrap west 9 12
+landmine west 4 2 f
+landmine west 7 2
+alt_rover west 11 12
+landmine north 12 10
+flytrap north 13 8
+hop west 7 5 f
+zhangyichi south 0 7 a
+food south 1 7 a f
+hop east 0 5 f
+alt_rover south 9 6
+lrover north 2 5
+hop north 9 15
+lrover west 0 9
+lrover east 9 5 f
+flytrap north 13 0
+landmine east 5 2 f
+lrover east 11 1
+lrover south 9 8
+alt_rover north 9 13
+landmine west 5 15
+lrover north 2 14
+lrover south 11 2 f
+rrover west 5 4
+food west 3 7 f
+lrover east 5 11
+hop west 2 15 f
+lrover east 12 7 f
+rrover west 10 13
+landmine west 7 6

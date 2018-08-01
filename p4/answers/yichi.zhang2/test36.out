@@ -1,0 +1,29 @@
+# Shuffling the deck
+cut at 26
+cut at 22
+# Hand 1 bankroll 99
+# Player bets 6
+Player dealt King of Clubs
+Dealer dealt Two of Clubs
+Player dealt King of Spades
+Player's total is 20
+Dealer's hole card is Two of Spades
+Dealer dealt Ace of Clubs
+Dealer dealt Three of Clubs
+Dealer's total is 18
+# Player wins
+# Hand 2 bankroll 105
+# Player bets 6
+Player dealt Ace of Spades
+Dealer dealt Three of Spades
+Player dealt Two of Diamonds
+Player dealt Two of Hearts
+Player dealt Four of Spades
+Player's total is 19
+Dealer's hole card is Four of Clubs
+Dealer dealt Three of Diamonds
+Dealer dealt Five of Clubs
+Dealer dealt Three of Hearts
+Dealer's total is 18
+# Player wins
+# Player has 111 after 2 hands

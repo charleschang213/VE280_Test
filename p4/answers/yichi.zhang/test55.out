@@ -1,0 +1,28 @@
+# Shuffling the deck
+cut at 29
+cut at 33
+cut at 38
+cut at 39
+cut at 18
+cut at 16
+cut at 31
+cut at 15
+# Hand 1 bankroll 15
+# Player bets 10
+Player dealt Jack of Spades
+Dealer dealt Five of Clubs
+Player dealt Eight of Diamonds
+Player's total is 18
+Dealer's hole card is Ten of Diamonds
+Dealer dealt Three of Spades
+Dealer's total is 18
+# Push
+# Hand 2 bankroll 15
+# Player bets 10
+Player dealt Jack of Diamonds
+Dealer dealt Eight of Clubs
+Player dealt Three of Clubs
+Player dealt King of Clubs
+Player's total is 23
+# Player busts
+# Player has 5 after 2 hands

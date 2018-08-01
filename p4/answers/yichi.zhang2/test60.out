@@ -1,0 +1,140 @@
+# Shuffling the deck
+cut at 36
+cut at 28
+cut at 17
+cut at 18
+cut at 23
+cut at 33
+# Hand 1 bankroll 79
+# Player bets 6
+Player dealt Three of Clubs
+Dealer dealt King of Clubs
+Player dealt Eight of Clubs
+Player dealt Four of Diamonds
+Player dealt Four of Clubs
+Player's total is 19
+Dealer's hole card is Ace of Hearts
+Dealer's total is 21
+# Dealer wins
+# Hand 2 bankroll 73
+# Player bets 6
+Player dealt Nine of Diamonds
+Dealer dealt Three of Diamonds
+Player dealt Two of Diamonds
+Player dealt Nine of Clubs
+Player's total is 20
+Dealer's hole card is Seven of Spades
+Dealer dealt Ace of Clubs
+Dealer's total is 21
+# Dealer wins
+# Hand 3 bankroll 67
+# Player bets 12
+Player dealt Ace of Diamonds
+Dealer dealt Five of Spades
+Player dealt Queen of Spades
+# Player dealt natural 21
+# Hand 4 bankroll 85
+# Player bets 6
+Player dealt Nine of Spades
+Dealer dealt Four of Hearts
+Player dealt Ten of Clubs
+Player's total is 19
+Dealer's hole card is Eight of Spades
+Dealer dealt Queen of Hearts
+Dealer's total is 22
+# Dealer busts
+# Hand 5 bankroll 91
+# Player bets 6
+Player dealt Seven of Diamonds
+Dealer dealt Ten of Diamonds
+Player dealt Ten of Hearts
+Player's total is 17
+Dealer's hole card is Eight of Hearts
+Dealer's total is 18
+# Dealer wins
+# Hand 6 bankroll 85
+# Player bets 6
+Player dealt King of Hearts
+Dealer dealt Jack of Clubs
+Player dealt Six of Hearts
+Player dealt Nine of Hearts
+# Player busts
+# Hand 7 bankroll 79
+# Player bets 6
+Player dealt Jack of Diamonds
+Dealer dealt Queen of Clubs
+Player dealt Ace of Spades
+# Player dealt natural 21
+# Hand 8 bankroll 88
+# Shuffling the deck
+cut at 39
+cut at 22
+cut at 33
+cut at 37
+cut at 38
+cut at 37
+cut at 38
+# Player bets 6
+Player dealt Ace of Clubs
+Dealer dealt Four of Spades
+Player dealt Five of Hearts
+Player dealt Seven of Diamonds
+Player dealt Eight of Hearts
+Player's total is 21
+Dealer's hole card is Eight of Clubs
+Dealer dealt Six of Spades
+Dealer's total is 18
+# Player wins
+# Hand 9 bankroll 94
+# Player bets 12
+Player dealt Ten of Clubs
+Dealer dealt Six of Hearts
+Player dealt Seven of Spades
+Player's total is 17
+Dealer's hole card is Six of Clubs
+Dealer dealt Ace of Spades
+Dealer dealt Three of Clubs
+Dealer dealt Three of Diamonds
+Dealer's total is 19
+# Dealer wins
+# Hand 10 bankroll 82
+# Player bets 12
+Player dealt Ten of Diamonds
+Dealer dealt Eight of Diamonds
+Player dealt Seven of Hearts
+Player's total is 17
+Dealer's hole card is Ace of Diamonds
+Dealer's total is 19
+# Dealer wins
+# Hand 11 bankroll 70
+# Player bets 12
+Player dealt Nine of Diamonds
+Dealer dealt King of Diamonds
+Player dealt Jack of Spades
+Player's total is 19
+Dealer's hole card is King of Hearts
+Dealer's total is 20
+# Dealer wins
+# Hand 12 bankroll 58
+# Player bets 6
+Player dealt Ten of Hearts
+Dealer dealt Four of Diamonds
+Player dealt King of Spades
+Player's total is 20
+Dealer's hole card is Nine of Hearts
+Dealer dealt Jack of Hearts
+Dealer's total is 23
+# Dealer busts
+# Hand 13 bankroll 64
+# Player bets 6
+Player dealt Three of Spades
+Dealer dealt King of Clubs
+Player dealt Two of Spades
+Player dealt Three of Hearts
+Player dealt Five of Spades
+Player dealt Eight of Spades
+Player's total is 21
+Dealer's hole card is Seven of Clubs
+Dealer's total is 17
+# Player wins
+# Player has 70 after 13 hands

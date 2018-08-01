@@ -1,0 +1,72 @@
+20
+3
+LPF
+FLH
+FHF
+PPP
+LHF
+LLH
+LLH
+FLL
+PPH
+FFL
+HFF
+HLH
+PPP
+LHP
+LLL
+HFH
+HPF
+PFF
+HFL
+LLF
+alt_rover east 10 2 a
+flytrap south 0 2 a
+lrover west 2 1
+landmine west 6 0 a f
+landmine east 15 0
+food north 4 2 a
+alt_rover north 14 1 f
+hop north 0 1
+rrover east 11 0 a
+landmine south 6 2
+rrover south 1 0
+rrover south 5 2
+hop south 14 2 f
+alt_rover north 9 2 f
+lrover east 7 0
+rrover west 3 1
+rrover east 18 2 f
+hop north 18 1 f
+lrover south 1 1 f
+food north 4 1
+rrover south 14 0 f
+food west 12 0
+rrover north 2 0
+food south 5 0 f
+rrover east 18 0
+hop north 3 0 a
+hop west 17 0 f
+alt_rover north 15 2
+food north 5 1 a f
+hop south 8 2
+flytrap north 16 2 a
+alt_rover east 8 1
+landmine east 9 0
+hop south 2 2
+flytrap south 13 1
+alt_rover east 4 0 f
+alt_rover north 19 2
+food west 1 2 a f
+food east 7 1 f
+rrover south 17 2
+food east 13 2 f
+hop north 11 1 f
+alt_rover east 0 0 f
+rrover north 19 1 f
+food north 12 1
+landmine east 10 1 a
+food north 19 0 f
+flytrap south 6 1 f
+food north 16 1 f
+alt_rover south 9 1 a

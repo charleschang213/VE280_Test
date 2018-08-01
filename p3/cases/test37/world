@@ -1,0 +1,9 @@
+2
+5
+FHHLF
+HHPFF
+path_finder west 0 0
+lrover south 1 2 f
+path_finder east 1 0
+hop west 1 3
+food east 1 1 a
